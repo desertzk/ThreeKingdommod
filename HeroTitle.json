@@ -1,0 +1,784 @@
+[
+{"userIndex":"9","id":"1000102","name":"超世之杰","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"曹操","typeNo":"1","level":"4","getType":"0","effect":"0/2/1013801/0;2/2//10;3/2//10;7/2//100;34/0//10;35/0//10;36/0//10;37/0//10;38/0//10;43/0//10","description":"◆ 身为君主时，势力采用默认策略【超世之杰】
+◆ 每个月势力策略点增加10，科技点增加10
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队攻击力和防御力各增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000401","name":"以德服人","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"外交型君主","typeNo":"2","level":"2","getType":"0","effect":"7/2/1006301/100;1/0/1000209/0","description":"◆ 身为君主时，个人被俘概率降低
+◆ 获得策略【人才选拔[改]】","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000601","name":"大汉皇叔","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"刘备","typeNo":"3","level":"4","getType":"0","effect":"0/2/1013901/0;7/2//100;43/0//15;1/0/1000209/0;33/0//10","description":"◆ 身为君主时，势力采用默认策略【大汉皇叔】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队的防御力增加15%
+◆ 获得策略【人才选拔[改]】
+◆ 自身外交能力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000105","name":"卧龙","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"诸葛亮","typeNo":"25","level":"4","getType":"0","effect":"1/1/1002505/2;43/0//20;52/0//10","description":"◆ 非在野状态时，采用默认策略【卧龙】
+◆ 在军团战中统领的小队防御力增加20%
+◆ 在辩论中防御力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000205","name":"凤雏","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"庞统","typeNo":"26","level":"4","getType":"0","effect":"1/1/1002605/2;53/0//15;45/0//20","description":"◆ 非在野状态时，采用默认策略【凤雏】
+◆ 在辩论中速度提高15%
+◆ 在军团战中统领的小队移动速度增加20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000805","name":"冢虎","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"司马懿","typeNo":"27","level":"4","getType":"0","effect":"1/1/1003205/2;43/0//15;45/0//10","description":"◆ 非在野状态时，采用默认策略【冢虎】
+◆ 在军团战中统领的小队防御力增加15%
+◆ 在军团战中统领的小队移动速度增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000905","name":"幼麒","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"姜维","typeNo":"28","level":"4","getType":"0","effect":"1/1/1003305/2;43/0//10;45/0//15","description":"◆ 非在野状态时，采用默认策略【幼麒】
+◆ 在军团战中统领的小队防御力增加10%
+◆ 在军团战中统领的小队速度增加15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1004508","name":"美髯公","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"关羽","typeNo":"90","level":"4","getType":"0","effect":"1/1/1002705/2;34/0//15;35/0//15;36/0//15;37/0//15;38/0//15;46/0//15","description":"◆ 非在野状态时，采用默认策略【美髯公】
+◆ 在军团战中统领的小队攻击力增加15%
+◆ 在武斗中攻击力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1004608","name":"万人敌","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张飞","typeNo":"91","level":"4","getType":"0","effect":"1/1/1000308/2;34/0//15;35/0//15;47/0//15","description":"◆ 非在野状态时，采用默认策略【万人敌】
+◆ 在军团战中统领的刀兵和枪兵攻击力增加15%
+◆ 在武斗中防御力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000701","name":"江东猛虎","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"孙坚","typeNo":"4","level":"4","getType":"0","effect":"0/2/1014001/0;7/2/1014001/80;45/0//10;56/0//15","description":"◆ 身为君主时，采用默认策略【江东猛虎】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队移动速度增加10%
+◆ 在军团战中对克制自己的部队暴击率增加15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000101","name":"江东小霸王","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"孙策","typeNo":"5","level":"4","getType":"0","effect":"0/2/1014101/0;7/2/1014101/80;45/0//10;48/0//15;34/0//10;35/0//10;36/0//10;37/0//10;38/0//10","description":"◆ 身为君主时，采用默认策略【江东小霸王】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队移动速度和攻击力增加10%
+◆ 在武斗中速度提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000201","name":"碧眼儿","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"孙权","typeNo":"6","level":"4","getType":"0","effect":"0/2/1014201/0;7/2/1014201/80;45/0//20;29/0//10","description":"◆ 身为君主时，采用默认策略【碧眼儿】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队移动速度增加20%
+◆ 自身密谋密谈能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000605","name":"江东周郎","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"周瑜","typeNo":"30","level":"4","getType":"0","effect":"1/1/1003005/80;7/1/1003005/70;51/0//20;34/0//10;35/0//10;36/0//10;37/0//10;38/0//10","description":"◆ 非在野状态时，采用默认策略【江东周郎】
+◆ 个人被俘概率降低
+◆ 在辩论中攻击力提高20%
+◆ 在军团战中统领的小队攻击力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1004708","name":"儒生雄略","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"**陆逊","typeNo":"92","level":"4","getType":"0","effect":"1/1/1000408/80;7/1/1003005/70;52/0//15;43/0//10","description":"◆ 非在野状态时，采用默认策略【谦逊谨慎】
+◆ 个人被俘概率降低
+◆ 在辩论中防御力提高15%
+◆ 在军团战中统领的小队防御力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001505","name":"国色","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"二乔","typeNo":"31","level":"3","getType":"1","effect":"1/1/1003905/80;7/1/1003005/70;32/0//15","description":"◆ 非在野状态时，采用默认策略【国色】
+◆ 个人被俘概率降低
+◆ 自身登用能力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000301","name":"军阀","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"军事型君主","typeNo":"7","level":"2","getType":"1","effect":"1/2/1016001/0;7/2/1011101/80","description":"◆ 身为君主时，采用默认策略【军阀】
+◆ 个人被俘概率降低","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000501","name":"豪强","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"经济型君主","typeNo":"8","level":"2","getType":"1","effect":"1/2/1016101/0;7/2/1000701/80","description":"◆ 身为君主时，采用默认策略【豪强】
+◆ 个人被俘概率降低","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000801","name":"暴虐豺王","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"董卓","typeNo":"9","level":"4","getType":"0","effect":"0/2/1014301/0;7/2/1014301/80;44/0//25;12/0//20;15/0//-10","description":"◆ 身为君主时，采用默认策略【暴虐豺王】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队破坏力增加25%
+◆ 所属城市金钱收入增加20%
+◆ 所属城市治安效果降低10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000901","name":"八俊","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"科技型君主","typeNo":"10","level":"2","getType":"1","effect":"1/1/1014401/0;7/2/1014401/60","description":"◆ 非在野状态时，获得策略【八俊】
+◆ 个人被俘概率降低","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001001","name":"名门孤嗣","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"袁绍","typeNo":"11","level":"4","getType":"0","effect":"0/2/1014501/0;7/2/1014501/100;43/0//10;25/0//15;36/0//10","description":"◆ 身为君主时，采用默认策略【名门孤嗣】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队防御力增加10%
+◆ 自身征兵能力增加15%
+◆ 在军团战中统领弓兵攻击力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001101","name":"五米天师","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张鲁","typeNo":"12","level":"2","getType":"0","effect":"0/2/1014601/0;7/2/1014601/100;13/0//10","description":"◆ 身为君主时，采用默认策略【五米天师令】
+◆ 个人被俘概率降低
+◆ 所属城市军粮收入提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001201","name":"白马将军","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"公孙瓒","typeNo":"13","level":"3","getType":"1","effect":"0/2/1014701/0;7/2/1014701/100;45/0//25","description":"◆ 身为君主时，采用默认策略【白马将军】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队移动速度增加25%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001205","name":"常胜将军","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"赵云","typeNo":"32","level":"4","getType":"0","effect":"1/1/1003605/0;7/1/1014701/100;45/0//30;46/0//10;34/0//10;35/0//10;37/0//10;48/0//15","description":"◆ 非在野状态时，采用默认策略【常胜将军】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队移动速度增加30%
+◆ 在军团战中统领的近战小队攻击力增加10%
+◆ 在武斗中攻击力提高10%，速度提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001301","name":"仁政","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"农业型君主","typeNo":"14","level":"2","getType":"1","effect":"0/2/1014801/0;7/2/1014801/100","description":"◆ 身为君主时，采用默认策略【发政施仁】
+◆ 个人被俘概率降低","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001401","name":"汉室名裔","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"刘虞","typeNo":"15","level":"2","getType":"0","effect":"0/2/1014901/0;7/2//100;22/0//10","description":"◆ 身为君主时，采用默认策略【广交内安】
+◆ 个人被俘概率降低
+◆ 自身巡防能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001501","name":"建安七子","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"孔融","typeNo":"16","level":"2","getType":"0","effect":"1/1/1015001/0;7/2/1015001/100","description":"◆ 非在野状态时，采用默认策略【建安七子】
+◆ 个人被俘概率降低","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001005","name":"竹林七贤","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"阮籍山涛","typeNo":"33","level":"2","getType":"0","effect":"1/1/1003405/0;7/1/1015001/50;52/0//10;32/0//-10;41/0//5","description":"◆ 非在野状态时，采用默认策略【竹林七贤】
+◆ 个人被俘概率降低
+◆ 在辩论中防御力提高10%
+◆ 自身登用能力降低10%
+◆ 智魂获得增加5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001601","name":"治世能才","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"陶谦","typeNo":"17","level":"2","getType":"1","effect":"0/2/1015101/0;7/2/1015101/100;26/0//10","description":"◆ 身为君主时，采用默认策略【治世安民】
+◆ 个人被俘概率降低
+◆ 自身练兵能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001701","name":"飞燕","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张燕","typeNo":"18","level":"3","getType":"0","effect":"0/2/1015201/0;7/2/1015201/100;48/0//5;45/0//15","description":"◆ 身为君主时，采用默认策略【飞燕】
+◆ 个人被俘概率降低
+◆ 在武斗中速度增加5%
+◆ 在军团战中统领的小队移动速度增加15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001801","name":"政通人和","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"王朗","typeNo":"19","level":"2","getType":"1","effect":"0/2/1015301/0;7/2/1015301/100","description":"◆ 身为君主时，采用默认策略【政通人和】
+◆ 个人被俘概率降低","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001901","name":"飞将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"吕布","typeNo":"20","level":"4","getType":"0","effect":"0/2/1015401/0;7/2/1015401/100;44/0//15;46/0//20;34/0//20;35/0//20;36/0//20;37/0//20;38/0//20","description":"◆ 身为君主时，采用默认策略【飞将】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队破坏力增加15%
+◆ 在军团战中统领的小队攻击力增加20%
+◆ 在武斗中攻击力提高20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002001","name":"西凉之锦","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"马超","typeNo":"21","level":"4","getType":"0","effect":"0/2/1015601/0;7/2/1015601/50;45/0//20;34/0//10;35/0//10;36/0//10;37/0//10;38/0//10;46/0//10","description":"◆ 身为君主时，采用默认策略【西凉之锦】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队移动速度增加20%
+◆ 在军团战中统领的小队攻击力增加10%
+◆ 在武斗中攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002101","name":"天公将军","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张角","typeNo":"22","level":"3","getType":"0","effect":"1/2/1015801/0;7/2/1015801/60;25/0//15","description":"◆ 身为君主时，采用默认策略【天公将军】
+◆ 个人被俘概率降低
+◆ 自身征兵能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002201","name":"扫坛蛮王","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"孟获","typeNo":"23","level":"3","getType":"0","effect":"1/2/1015901/0;7/0//20;44/0//30","description":"◆ 身为君主时，采用默认策略【扫坛蛮王】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队破坏力增加30%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000405","name":"五子良将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张辽乐进张郃徐晃于禁","typeNo":"34","level":"3","getType":"0","effect":"1/1/1002805/20;34/0//15;35/0//15;36/0//15;37/0//15;38/0//15;46/0//10","description":"◆ 非在野状态时，获得策略【五子良将】
+◆ 在武斗中攻击力提高10%
+◆ 在军团战中统领的小队攻击力增加15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000705","name":"虎痴","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"许褚","typeNo":"35","level":"3","getType":"0","effect":"1/1/1003105/20;44/0//25;49/0//10;34/0//15;36/0//15;37/0//15;38/0//15","description":"◆ 非在野状态时，采用默认策略【虎痴】
+◆ 在军团战中统领的小队破坏力增加25%
+◆ 在军团战中统领的小队攻击力增加15%
+◆ 在武斗中生命值上限提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002208","name":"恶来","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"典韦","typeNo":"50","level":"3","getType":"0","effect":"1/1/1000208/20;43/0//15;46/0//15","description":"◆ 非在野状态时，采用默认策略【恶来】
+◆ 在军团战中统领的小队防御力增加15%
+◆ 在武斗中攻击力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001105","name":"奇佐之才","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"郭嘉","typeNo":"36","level":"3","getType":"0","effect":"1/1/1003505/20;7/1/1003505/80;53/0//15;45/0//20","description":"◆ 非在野状态时，采用默认策略【奇佐之才】
+◆ 个人被俘概率降低
+◆ 在辩论中速度提高15%
+◆ 在军团战中统领的小队移动速度增加20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002108","name":"王佐之才","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"荀彧","typeNo":"24","level":"3","getType":"0","effect":"1/1/1000108/20;7/1/1003505/80;52/0//12;1/0/1000209/0","description":"◆ 非在野状态时，采用默认策略【王佐之才】
+◆ 个人被俘概率降低
+◆ 在辩论中防御力提高12%
+◆ 获得策略【人才选拔[改]】","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000505","name":"河北庭柱","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张郃高览","typeNo":"37","level":"2","getType":"0","effect":"1/1/1002905/15;43/0//8","description":"◆ 非在野状态时，获得策略【河北四庭柱】
+◆ 在军团战中统领的小队防御力增加8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001305","name":"老当益壮","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"老将","typeNo":"38","level":"2","getType":"0","effect":"1/1/1003705/15;7/1/1003705/50;47/0//10","description":"◆ 非在野状态时，采用默认策略【老当益壮】
+◆ 个人被俘概率降低
+◆ 在武斗中防御力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001405","name":"悬壶济世","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"华佗","typeNo":"39","level":"3","getType":"0","effect":"1/1/1003805/15;7/1/1003705/50;16/0//10","description":"◆ 非在野状态时，采用默认策略【悬壶济世】
+◆ 个人被俘概率降低
+◆ 所属城市巡防效果提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001605","name":"锦帆贼","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"甘宁","typeNo":"40","level":"3","getType":"0","effect":"6/0/10102/15;21/1/10102/15;44/0//20","description":"◆ 非在野状态时，出征时刀兵部队的攻击力提高15%
+◆ 自身治安能力提高15%
+◆ 在军团战中统领的小队破坏力增加20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001705","name":"枭姬","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"孙尚香","typeNo":"41","level":"3","getType":"0","effect":"6/0/104/15;21/1/10102/15;45/0//20;6/0/105/15","description":"◆ 非在野状态时，出征时弓兵、强弓兵部队的攻击力提高15%
+◆ 自身治安能力提高15%
+◆ 在军团战中统领的小队移动速度增加20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001805","name":"西凉枭雄","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"马腾韩遂","typeNo":"42","level":"3","getType":"0","effect":"6/0/11802/15;0/2/1004005/15;45/0//20","description":"◆ 身为君主时，采用默认策略【西凉枭雄】
+◆ 出征时西凉铁骑部队的攻击力提高15%
+◆ 在军团战中统领的小队移动速度增加20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001905","name":"勇冠三军","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"颜良文丑","typeNo":"43","level":"4","getType":"1","effect":"1/1/1004105/15;46/0//10;34/0//10;35/0//10;36/0//10;37/0//10;38/0//10","description":"◆ 非在野状态时，采用默认策略【勇冠三军】
+◆ 在武斗中攻击力提高10%
+◆ 在军团战中统领的小队攻击力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002005","name":"荆州壁垒","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"文聘","typeNo":"44","level":"3","getType":"0","effect":"5/0/10302/1;14/1/10302/10;43/0//10","description":"◆ 非在野状态时，刀盾兵上限加1
+◆ 所属城市的征兵和练兵效果提高10%
+◆ 在军团战中统领的小队防御力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002105","name":"江东二张","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张昭张竑","typeNo":"45","level":"3","getType":"0","effect":"1/1/1004205/1000;51/0//10;28/0//15;33/0//15","description":"◆ 非在野状态时，获得策略【江东二张】
+◆ 在辩论中攻击力提高10%
+◆ 科技研发团队效果增加15%
+◆ 自身外交能力增加15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1002205","name":"绝世舞姬","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"貂蝉","typeNo":"46","level":"4","getType":"0","effect":"29/1/1004205/20;30/1/1004205/20;31/1/1004205/20","description":"◆ 非在野状态时，自身密谈、谋害和解救能力提高20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002305","name":"蜀汉四相","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"费祎董允蒋琬","typeNo":"47","level":"3","getType":"0","effect":"1/1/1004305/20;43/0//10;17/0//15;4/1//15","description":"◆ 非在野状态时，采用默认策略【蜀汉四相】
+◆ 在军团战中统领的小队防御力增加10%
+◆ 所属城市街区管理效果增加15%
+◆ 非在野状态时，势力科技研发速度增加15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002405","name":"火神后裔","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"祝融","typeNo":"48","level":"3","getType":"0","effect":"6/0/10802/20;7/1/10802/60;45/0//15","description":"◆ 出征时蛮族兵的攻击力提高20%
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队移动速度增加15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1002505","name":"司马八达","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"司马八兄弟","typeNo":"49","level":"2","getType":"0","effect":"1/1/1004405/20;15/1//10","description":"◆ 非在野状态时，获得策略【司马八达】
+◆ 所属城市治安效果提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000108","name":"天下极武","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"51","level":"4","getType":"1","effect":"40/0//30;7/0/1004405/-50;34/0//20;35/0//20;36/0//20;37/0//20;38/0//20","description":"◆ 武魂获得速度提高30%
+◆ 自身被俘率降低50%
+◆ 军团战中统领的小队攻击力增加20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000208","name":"天下极谋","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"52","level":"4","getType":"1","effect":"41/0/1004405/30;3/0/1004405/15;2/0/1004405/15","description":"◆ 智魂点获得速度提高30%
+◆ 每个月势力策略点增加15点
+◆ 每个月科技点增加15点","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1005508","name":"天下极策","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"93","level":"4","getType":"1","effect":"42/0/1004405/30;43/0/1004405/20;44/0/1004405/20;45/0/1004405/5","description":"◆ 军魂点获得速度提高30%
+◆ 军团战中统领的小队防御力增加20%
+◆ 军团战中统领的小队破坏力增加20%
+◆ 军团战中统领的小队移动速度增加5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1000308","name":"骑将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"53","level":"2","getType":"1","effect":"37/0/1004405/10","description":"◆ 统领骑兵部队时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1000408","name":"骑神","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"53","level":"3","getType":"1","effect":"37/0/1004405/20","description":"◆ 统领骑兵部队时攻击力提高20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1001308","name":"步将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"54","level":"2","getType":"1","effect":"34/0/1004405/10;35/0/1004405/10","description":"◆ 统领刀兵或枪兵部队时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1001408","name":"战神","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"54","level":"3","getType":"1","effect":"34/0/1004405/20;35/0/1004405/20","description":"◆ 统领刀兵或枪兵部队时攻击力提高20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1001508","name":"弓将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"55","level":"2","getType":"1","effect":"36/0/1004405/10","description":"◆ 统远程部队时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1001608","name":"弓神","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"55","level":"3","getType":"1","effect":"36/0/1004405/20","description":"◆ 统远程部队时攻击力提高20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1000508","name":"治理领袖","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"56","level":"2","getType":"1","effect":"15/4/1004405/20;16/4/1004405/20","description":"◆ 作为城市领袖时，城市执行治安和巡访的效率提高20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1001708","name":"治军领袖","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"57","level":"2","getType":"1","effect":"14/4/1004405/20","description":"◆ 作为城市领袖时，该城市执行征兵或练兵的效率提高20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1001908","name":"开发领袖","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"58","level":"2","getType":"1","effect":"17/4/1004405/20","description":"◆ 作为城市领袖时，该城市执行街区管理的效率提高20%。","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1002008","name":"稷神","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"58","level":"3","getType":"1","effect":"17/4/1004405/40","description":"◆ 作为城市领袖时，该城市执行街区管理的效率提高40%。","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1001808","name":"兵神","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"57","level":"3","getType":"1","effect":"14/4/1004405/40","description":"◆ 作为城市领袖时，该城市执行征兵或练兵的效率提高40%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1000708","name":"商业领袖","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"59","level":"2","getType":"1","effect":"12/4/1004405/20","description":"◆ 作为城市领袖时，城市金钱收入提高20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1001008","name":"财神","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"59","level":"3","getType":"1","effect":"12/4/1004405/40","description":"◆ 作为城市领袖时，城市金钱收入提高40%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1000908","name":"农耕领袖","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"60","level":"2","getType":"1","effect":"13/4/1004405/20","description":"◆ 作为城市领袖时，城市军粮收入提高20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1000808","name":"谷神","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"60","level":"3","getType":"1","effect":"13/4/1004405/40","description":"◆ 作为城市领袖时，城市军粮收入提高40%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1000608","name":"治神","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"56","level":"3","getType":"1","effect":"15/4/1004405/40;16/4/1004405/40","description":"◆ 作为城市领袖时，城市执行治安和巡访的效率提高40%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1001108","name":"天赋绝伦","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"61","level":"3","getType":"1","effect":"10/0//15","description":"◆ 三魂点获得速度提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1001208","name":"神造之才","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"61","level":"4","getType":"1","effect":"10/0//25","description":"◆ 三魂点获得速度提高25%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1002401","name":"藤甲兵统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"62","level":"3","getType":"1","effect":"5/0/10502/1;6/0/10502/10","description":"◆ 藤甲兵部队上限加1，自身部队为藤甲兵时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1002301","name":"白毦兵统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"63","level":"4","getType":"1","effect":"5/0/10602/1;6/0/10602/10","description":"◆ 白毦兵部队上限加1，自身部队为白毦兵时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1002501","name":"虎贲军统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"64","level":"4","getType":"1","effect":"5/0/10702/1;6/0/10702/10","description":"◆ 虎贲军部队上限加1，自身部队为虎贲军时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1002601","name":"青州兵统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"65","level":"3","getType":"1","effect":"5/0/10902/1;6/0/10902/10","description":"◆ 青州兵部队上限加1，自身部队为青州兵时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1002701","name":"车下虎士统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"66","level":"3","getType":"1","effect":"5/0/11202/1;6/0/11202/10","description":"◆ 车下虎士部队上限加1，自身部队为车下虎士时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1002801","name":"大戟士统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"67","level":"3","getType":"1","effect":"5/0/11302/1;6/0/11302/10","description":"◆ 大戟士部队上限加1，自身部队为大戟士时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1002901","name":"陷阵营统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"68","level":"4","getType":"1","effect":"5/0/11402/1;6/0/11402/10","description":"◆ 陷阵营部队上限加1，自身部队为陷阵营时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003001","name":"丹阳兵统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"69","level":"3","getType":"1","effect":"5/0/11502/1;6/0/11502/10","description":"◆ 丹阳兵部队上限加1，自身部队为丹阳兵时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003101","name":"虎豹骑统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"70","level":"4","getType":"1","effect":"5/0/11702/1;6/0/11702/10","description":"◆ 虎豹骑部队上限加1，自身部队为虎豹骑时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003201","name":"西凉铁骑统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"71","level":"3","getType":"1","effect":"5/0/11802/1;6/0/11802/10","description":"◆ 西凉铁骑部队上限加1，自身部队为西凉铁骑时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003301","name":"解烦军统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"72","level":"4","getType":"1","effect":"5/0/11902/1;6/0/11902/10","description":"◆ 解烦军部队上限加1，自身部队为解烦军时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003401","name":"飞熊军统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"73","level":"3","getType":"1","effect":"5/0/12002/1;6/0/12002/10","description":"◆ 飞熊军部队上限加1，自身部队为飞熊军时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003501","name":"连弩兵统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"74","level":"3","getType":"1","effect":"5/0/12402/1;6/0/12402/10","description":"◆ 连弩兵部队上限加1，自身部队为连弩兵时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003601","name":"羽林射手统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"75","level":"4","getType":"1","effect":"5/0/12502/1;6/0/12502/10","description":"◆ 羽林射手部队上限加1，自身部队为羽林射手时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003701","name":"无当飞军统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"76","level":"4","getType":"1","effect":"5/0/12702/1;6/0/12702/10","description":"◆ 无当飞军部队上限加1，自身部队为无当飞军时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003801","name":"先登死士统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"77","level":"4","getType":"1","effect":"5/0/12802/1;6/0/12802/10","description":"◆ 先登死士部队上限加1，自身部队为先登死士时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003901","name":"白马义从统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"78","level":"4","getType":"1","effect":"5/0/12902/1;6/0/12902/10","description":"◆ 白马义从部队上限加1，自身部队为白马义从时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1002308","name":"御敌先锋","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"79","level":"1","getType":"1","effect":"43/0//5","description":"◆ 自身部队防御力提高5%。","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1002408","name":"御敌统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"79","level":"2","getType":"1","effect":"43/0//10","description":"◆ 自身部队防御力提高10%。","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1002508","name":"破城先锋","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"80","level":"1","getType":"1","effect":"44/0//10","description":"◆ 自身部队破坏力提高10%。","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1000309","name":"镇南大将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5601","level":"3","getType":"1","effect":"43/0//15","description":"◆ 军团战中，自身部队的防御力提高15%。","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1000409","name":"镇北大将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5602","level":"3","getType":"1","effect":"37/0//15;36/0//15;35/0//15;34/0//15","description":"◆ 军团战中，自身部队的攻击力提高15%。","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000509","name":"镇西大将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5603","level":"3","getType":"1","effect":"37/0//8;36/0//8;35/0//8;34/0//8;45/0//15","description":"◆ 军团战中，自身部队的攻击力提高8%。
+◆ 军团战中，自身部队的移动速度提高15%。","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000609","name":"镇东大将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5604","level":"3","getType":"1","effect":"43/0//8;54/0//8;44/0//15","description":"◆ 军团战和水战中，自身部队的防御力提高8%。
+◆ 军团战中，自身部队的破坏力提高15%。","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1002608","name":"破城统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"80","level":"2","getType":"1","effect":"44/0//15","description":"◆ 自身部队破坏力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1002708","name":"疾驰先锋","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"81","level":"1","getType":"1","effect":"45/0//10","description":"◆ 自身部队移动速度提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1002808","name":"疾驰统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"81","level":"2","getType":"1","effect":"45/0//15","description":"◆ 自身部队移动速度提高15%。","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1002908","name":"猛士","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"82","level":"1","getType":"1","effect":"46/0//5","description":"◆ 在武斗中攻击力提升5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003108","name":"御士","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"83","level":"1","getType":"1","effect":"47/0//5","description":"◆ 在武斗中防御力提升5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003308","name":"迅士","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"84","level":"1","getType":"1","effect":"48/0//5","description":"◆ 在武斗中速度提升5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003508","name":"力士","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"85","level":"1","getType":"1","effect":"49/0//5","description":"◆ 在武斗中生命值上限提升5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003708","name":"巧士","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"86","level":"1","getType":"1","effect":"50/0//5","description":"◆ 在武斗中真气值上限提升5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003908","name":"辩手","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"87","level":"1","getType":"1","effect":"51/0//5","description":"◆ 在辩论中攻击力提升5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1004108","name":"学士","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"88","level":"1","getType":"1","effect":"52/0//5","description":"◆ 在辩论中防御力提升5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1004308","name":"智士","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"89","level":"1","getType":"1","effect":"53/0//5","description":"◆ 在辩论中速度提升5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003008","name":"猛将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"82","level":"2","getType":"1","effect":"46/0//10","description":"◆ 在武斗中攻击力提升10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003208","name":"御将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"83","level":"2","getType":"1","effect":"47/0//10","description":"◆ 在武斗中防御力提升10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003408","name":"迅将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"84","level":"2","getType":"1","effect":"48/0//10","description":"◆ 在武斗中速度提升10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003608","name":"蛮将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"85","level":"2","getType":"1","effect":"49/0//10","description":"◆ 在武斗中生命值上限提升10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1003808","name":"巧将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"86","level":"2","getType":"1","effect":"50/0//10","description":"◆ 在武斗中真气值上限提升10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1004008","name":"辩才","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"87","level":"2","getType":"1","effect":"51/0//10","description":"◆ 在辩论中攻击力提升10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1004208","name":"学者","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"88","level":"2","getType":"1","effect":"52/0//10","description":"◆ 在辩论中防御力提升10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1004408","name":"智者","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"89","level":"2","getType":"1","effect":"53/0//10","description":"◆ 在辩论中速度提升10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1004808","name":"讨逆之将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"讨董联盟军","typeNo":"102","level":"2","getType":"2","effect":"34/0//5;35/0//5;36/0//5;37/0//5;46/0//5","description":"◆ 军团战陆战中的攻击力提高5%
+◆ 在武斗中的攻击力提高5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1004908","name":"助纣为虐","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"讨董董卓方","typeNo":"103","level":"2","getType":"2","effect":"34/0//5;35/0//5;36/0//5;37/0//5;47/0//5","description":"◆ 军团战陆战中的攻击力提高5%
+◆ 在武斗中的防御力提高5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1005108","name":"吕庄逃难","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"陈留起兵","typeNo":"101","level":"2","getType":"2","effect":"45/0//5;48/0//5","description":"◆ 在武斗中的速度提高5%
+◆ 军团战中统领小队的移动速度提高5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1005208","name":"连环诛逆","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"连环计","typeNo":"105","level":"2","getType":"2","effect":"43/0//5;49/0//5;52/0//5","description":"◆ 在武斗中的生命最大值提高5%
+◆ 军团战中统领小队的移动速度提高5%
+◆ 舌战中的防御力提高5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1005008","name":"献刀七星","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"七星宝刀","typeNo":"100","level":"2","getType":"2","effect":"51/0//8","description":"◆ 舌战中的攻击力提高8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1005308","name":"力挫双雄","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"天赐埼玉/白马之围","typeNo":"104","level":"2","getType":"2","effect":"46/0//8","description":"◆ 武斗中的攻击力提高8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1000109","name":"霸者之魂","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"108","level":"3","getType":"2","effect":"46/0//5;47/0//5;40/0//20","description":"◆ 武斗中的攻击力防御力提高5%
+◆ 武魂点获得速度提高20%。","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1000209","name":"太平使者","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"109","level":"3","getType":"2","effect":"52/0//5;47/0//5;40/0//10;41/0//10","description":"◆ 舌战和武斗时防御力提高5%
+◆ 智魂点获得速度提高10%
+◆ 武魂点获得速度提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000709","name":"刀盾兵统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5610","level":"2","getType":"1","effect":"5/0/10302/1;6/0/10302/10","description":"◆ 刀盾兵部队上限加1，自身部队为刀盾兵时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000809","name":"蛮族兵统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5611","level":"2","getType":"1","effect":"5/0/10802/1;6/0/10802/10","description":"◆ 蛮族兵部队上限加1，自身部队为蛮族兵时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1000909","name":"枪盾兵统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5612","level":"2","getType":"1","effect":"5/0/11002/1;6/0/11002/10","description":"◆ 枪盾兵部队上限加1，自身部队为枪盾兵时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001009","name":"精锐枪兵统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5613","level":"2","getType":"1","effect":"5/0/11102/1;6/0/11102/10","description":"◆ 精锐枪兵部队上限加1，自身部队为精锐枪兵时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001109","name":"重骑兵统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5614","level":"2","getType":"1","effect":"5/0/11602/1;6/0/11602/10","description":"◆ 重骑兵部队上限加1，自身部队为重骑兵时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001209","name":"强弓兵统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5615","level":"2","getType":"1","effect":"5/0/105/1;6/0/105/10","description":"◆ 强弓兵部队上限加1，自身部队为强弓兵时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1001309","name":"劲弩兵统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5616","level":"2","getType":"1","effect":"5/0/12302/1;6/0/12302/10","description":"◆ 劲弩兵部队上限加1，自身部队为劲弩兵时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001409","name":"弓骑兵统领","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5617","level":"2","getType":"1","effect":"5/0/102/1;6/0/102/10","description":"◆ 弓骑兵部队上限加1，自身部队为弓骑兵时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1000119","name":"袁宗重光","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"二袁止戈","typeNo":"5018","level":"4","getType":"2","effect":"33/0//25;10/0//10","description":"◆ 自身外交能力提高25%
+◆ 三魂获得速度提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1000160","name":"义烈孤忠","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"义烈孤忠","typeNo":"5019","level":"4","getType":"2","effect":"57/0//20","description":"◆ 军团战中，所领小队在与非克制兵种交战时，仍然可以触发暴击。","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1000260","name":"梵音血手","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"梵音血手","typeNo":"5020","level":"4","getType":"2","effect":"55/0//20","description":"◆ 军团战中，所领小队触发暴击的频率提高20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1000219","name":"仲家雄风","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"僭号称帝","typeNo":"5021","level":"4","getType":"2","effect":"47/0//5;52/0//5;43/0//10","description":"◆ 在武斗中防御力提升5%
+◆ 在辩论中防御力提升5%
+◆ 在军团战中统领的小队防御力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1000319","name":"淮南讨逆","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"僭号称帝","typeNo":"5022","level":"4","getType":"2","effect":"46/0//5;51/0//5;44/0//10","description":"◆ 在武斗中攻击力提升5%
+◆ 在辩论中攻击力提升5%
+◆ 军团战中，自身部队的破坏力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1000360","name":"三杯不倒","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5023","level":"3","getType":"2","effect":"30/0//15","description":"◆ 自身谋害能力提升15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1005408","name":"千里归宗","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5024","level":"3","getType":"2","effect":"23/0//15","description":"◆ 自身探索能力提升15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001509","name":"武学宗师","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"李彦童渊王越","typeNo":"5025","level":"4","getType":"3","effect":"46/0//8;47/0//8;1/1/1003101/0","description":"◆ 武斗中攻击力和防御力提升8% 
+◆ 非在野状态时，采用默认策略【作战动员（大）】","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001609","name":"玄武道真","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"玉真子","typeNo":"5026","level":"4","getType":"3","effect":"46/0//5;47/0//5;49/0//10;50/0//10","description":"◆ 武斗中攻击力和防御力提升5%
+◆ 武斗中生命和真气上限提升10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001709","name":"剑豪","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"史阿","typeNo":"5027","level":"3","getType":"0","effect":"46/0//8;48/0//15","description":"◆ 武斗中攻击力提升8%
+◆ 武斗中速度提升15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1001809","name":"绝域孤锋","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"韩龙","typeNo":"5028","level":"4","getType":"3","effect":"46/0//5;48/0//15;30/0//30","description":"◆ 武斗中攻击力提升5%
+◆ 武斗中速度提升15%
+◆ 计谋谋害能力提高30%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001909","name":"经神","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"郑玄","typeNo":"5029","level":"4","getType":"3","effect":"52/0//20;33/0//20;1/1/1001905/20","description":"◆ 舌战中防御力提升20%
+◆ 外交能力提高20%
+◆ 非在野状态时，采用默认策略【忠良教育（大）】","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1010515","name":"忠孝缄谋","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"徐庶","typeNo":"226","level":"3","getType":"0","effect":"1/1/1004801/2;51/0//12;45/0//12;21/0//10","description":"◆ 非在野状态时，获得策略【求贤若渴（大）】
+◆ 在辩论中攻击力提高12%
+◆ 在军团战中统领的小队移动速度增加12%
+◆ 自身治安能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1014015","name":"汉笳悲歌","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"蔡文姬","typeNo":"231","level":"3","getType":"0","effect":"7/1/1003005/50;32/0//15;28/0//15","description":"◆ 个人被俘概率降低
+◆ 自身登用能力提高15%
+◆ 科技研发团队效果提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1013915","name":"四世三公","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"袁隗袁基","typeNo":"211","level":"2","getType":"0","effect":"33/0//10;32/0//10","description":"◆ 自身外交能力增加10%
+◆ 自身登用能力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1009615","name":"材匪戡难","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"刘繇","typeNo":"212","level":"2","getType":"0","effect":"0/2/1014901/0;7/2/1014601/100;25/1/1014601/10","description":"◆ 身为君主时，采用默认策略【广交内安】
+◆ 个人被俘概率降低
+◆ 自身征兵能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1009715","name":"器非英杰","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"刘焉","typeNo":"213","level":"2","getType":"0","effect":"1/2/1016001/0;7/2/1014601/60;17/0/1014601/10","description":"◆ 身为君主时，获得策略【军阀】
+◆ 个人被俘概率降低
+◆ 城市街区奉行效果提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1009815","name":"十常侍","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张让赵忠段珪","typeNo":"214","level":"3","getType":"0","effect":"1/1/1005301/0;12/1/1014601/10;30/0/1014601/15","description":"◆ 非在野状态时，获得策略【苛捐杂税（大）】
+◆ 所属城市金钱收入增加10%
+◆ 自身谋害能力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1013015","name":"一日千里","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"王允","typeNo":"215","level":"3","getType":"0","effect":"1/1/1006501/0;15/1/1014601/10;30/0/1014601/12;51/0/1014601/8","description":"◆ 非在野状态时，获得策略【广宣爱民（大）】
+◆ 所属城市金治安效果增加10%
+◆ 自身谋害能力提高12%
+◆ 舌战攻击力提高8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1013115","name":"女烈奇谲","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"王异","typeNo":"216","level":"3","getType":"0","effect":"1/1/1000905/0;24/0/1014601/10;30/0/1014601/10;51/0/1014601/8","description":"◆ 非在野状态时，获得策略【作战动员（中）】
+◆ 自身城防建设能力增加10%
+◆ 自身谋害能力提高10%
+◆ 舌战攻击力提高8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1014615","name":"漠南苍枭","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"柯比能","typeNo":"313","level":"3","getType":"0","effect":"1/2/1003201/0;7/2/1014701/100;37/0//15","description":"◆ 身为君主时，获得策略【横掠强征（大）】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的骑兵小队攻击力增加15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1015215","name":"骁雄百蛮","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"蹋顿","typeNo":"314","level":"3","getType":"0","effect":"1/2/1003201/0;7/2/1014701/100;44/0//15","description":"◆ 身为君主时，获得策略【横掠强征（大）】
+◆ 个人被俘概率降低
+◆ 军团战破坏力增加15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1015315","name":"鬼道惑心","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"卑弥呼","typeNo":"315","level":"3","getType":"0","effect":"1/2/1007301/0;7/2/1014701/100;33/0//15","description":"◆ 身为君主时，获得策略【增派军医（大）】
+◆ 个人被俘概率降低
+◆ 自身外交能力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1007115","name":"将门虎子","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"关兴张苞","typeNo":"5089","level":"2","getType":"1","effect":"46/0//5;34/0//5;35/0//5;37/0//5;48/0//8","description":"◆ 在军团战中统领的近战小队攻击力增加5%
+◆ 在武斗中攻击力提高5%，速度提高8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1007215","name":"虎女","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"关银屏马云禄","typeNo":"5090","level":"2","getType":"1","effect":"46/0//8;45/0//8;48/0//5","description":"◆ 在军团战中速度增加8%
+◆ 在武斗中攻击力提高8%，速度提高5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1012115","name":"花关索","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"关索","typeNo":"5091","level":"2","getType":"0","effect":"47/0//5;45/0//5;37/0//5","description":"◆ 武斗防御力增加5%
+◆ 在军团战中速度增加5%
+◆ 在军团战中骑兵攻击力增加5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1009515","name":"强运","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"刘禅","typeNo":"215","level":"1","getType":"0","effect":"7/0//100","description":"◆ 个人被俘概率降低","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1014315","name":"七子冠冕","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"王粲","typeNo":"316","level":"2","getType":"0","effect":"1/1/1015001/0;4/1/1015001/5","description":"◆ 非在野状态时，采用默认策略【建安七子】
+◆ 提高势力科技研发速度5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"8","id":"1014415","name":"广陵绝响","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"嵇康","typeNo":"233","level":"4","getType":"0","effect":"1/1/1003405/0;1/1/1002505/50;51/0//10","description":"◆ 非在野状态时，采用默认策略【竹林七贤】
+◆ 非在野状态时，获得策略【卧龙】 
+◆ 在辩论中攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1003615","name":"宗室颜渊","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"孙桓","typeNo":"5267","level":"2","getType":"0","effect":"1/1/1001205/0;24/0/1015101/10;48/0/1015101/5","description":"◆ 非在野状态时，获得策略【强制修筑（中）】
+◆ 自身城防建设能力提高10%
+◆ 武斗速度提高5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1015515","name":"蜀中孔子","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"谯周","typeNo":"5067","level":"2","getType":"0","effect":"1/1/1001905/0;16/0/1015101/10;33/0/1015101/8","description":"◆ 非在野状态时，获得策略【忠良教育（大）】
+◆ 所属城市巡防提高10%
+◆ 自身外交能力提高8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1013615","name":"雍容风议","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"麋竺孙乾简雍伊籍","typeNo":"5171","level":"2","getType":"1","effect":"51/0/1015101/5;33/0/1015101/12","description":"◆ 舌战攻击力提高5%
+◆ 自身外交能力提高12%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1013715","name":"奕世忠义","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"傅肜傅佥","typeNo":"5172","level":"3","getType":"0","effect":"46/0/1015101/8;47/0/1015101/8;43/0/1015101/10;55/0/1015101/12","description":"◆ 武斗攻击力、防御力提高8%
+◆ 军团战陆战防御力提高10%
+◆ 军团战触发下次暴击的速度加快12%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1015015","name":"坚壁贞国","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"霍峻霍弋","typeNo":"5173","level":"3","getType":"0","effect":"47/0/1015101/10;43/0/1015101/15;24/0/1015101/12","description":"◆ 武斗防御力提高10%
+◆ 军团战陆战防御力提高15%
+◆ 自身城防建设能力提高12%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1015115","name":"忠烈果毅","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"罗宪","typeNo":"5174","level":"3","getType":"0","effect":"46/0/1015101/10;43/0/1015101/12;24/0/1015101/15","description":"◆ 武斗攻击力提高10%
+◆ 军团战陆战防御力提高15%
+◆ 自身城防建设能力提高12%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1009115","name":"怀妄狂图","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张松","typeNo":"5167","level":"3","getType":"0","effect":"1/1/1004401/0;33/0/1015101/10;51/0/1015101/5;52/0/1015101/5;53/0/1015101/5","description":"◆ 非在野状态时，获得策略【忠良教育（中）】
+◆ 自身外交能力提高10%
+◆ 舌战攻击力、防御力、速度提高5% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1009215","name":"季汉辅翼","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"法正","typeNo":"5168","level":"4","getType":"0","effect":"1/1/1003101/0;15/1/1015101/10;51/0/1015101/8;3/1/1015101/5;45/0/1015101/5","description":"◆ 非在野状态时，获得策略【作战动员（大）】
+◆ 所属城市治安效果提高10%
+◆ 舌战攻击力提高8%
+◆ 所属势力每个月获得策略点5点
+◆ 军团战移动速度增加5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1009315","name":"断头将军","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"严颜","typeNo":"5169","level":"2","getType":"0","effect":"36/0/1003101/12;51/0/1015101/8","description":"◆ 军团战弓（骑）兵攻击力提高12%
+◆ 舌战攻击力提高8% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1009415","name":"胆勇志节","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张任","typeNo":"5170","level":"3","getType":"0","effect":"36/0/1003101/15;46/0/1015101/10;26/0/1015101/10","description":"◆ 军团战弓（骑）兵攻击力提高15%
+◆ 武斗攻击力提高10%
+◆ 自身练兵能力提高10% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1010815","name":"国士之风","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"吕蒙凌统","typeNo":"220","level":"3","getType":"0","effect":"1/1/1003101/0;46/0//5;51/0//5;54/0//10","description":"◆ 非在野状态时，获得策略【作战动员（大）】
+◆ 在武斗、舌战攻击力增加5%
+◆ 在军团战中水战部队攻防增加10% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1008415","name":"江表虎臣","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"程普韩当","typeNo":"218","level":"3","getType":"0","effect":"46/0//5;47/0//5;38/0//5;26/0//10;54/0//5","description":"◆ 在武斗中攻防增加5%
+◆ 在军团战中水战部队攻防增加5%
+◆ 自身练兵能力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1008515","name":"金枪不倒","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"周泰","typeNo":"219","level":"3","getType":"0","effect":"47/0//10;49/0//10;43/0//5;26/0//10;54/0//5","description":"◆ 在武斗中生命值、防御力增加10%
+◆ 在军团战中防御力增加5%
+◆ 自身练兵能力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1012315","name":"以胆为守","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"朱然","typeNo":"320","level":"3","getType":"0","effect":"1/1/1001105/10;43/0//8;54/0//8;25/0//10","description":"◆ 非在野状态时，采用默认策略【兴修土木（中）】
+◆ 在军团战中防御力增加8%
+◆ 自身征兵能力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1015415","name":"桓武烈名","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"朱桓","typeNo":"321","level":"3","getType":"0","effect":"1/1/1001105/10;56/0//10;46/0//5","description":"◆ 非在野状态时，采用默认策略【兴修土木（中）】
+◆ 在军团战中对克制自己的部队暴击率增加10%
+◆ 武斗攻击力提高5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1005615","name":"师鸷鹰扬","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"司马师","typeNo":"5076","level":"4","getType":"0","effect":"1/1/1003205/0;7/4/1015601/50;45/0//8;43/0//8;30/0//10","description":"◆ 非在野状态时，获得策略【冢虎】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队移动速度增加8%
+◆ 在军团战中统领的小队防御力增加8%
+◆ 自身谋害能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1005815","name":"昭心谋国","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"司马昭","typeNo":"5077","level":"3","getType":"0","effect":"1/1/1000905/0;7/4/1015601/50;51/0//8;30/0//10","description":"◆ 非在野状态时，获得策略【作战动员（中）】
+◆ 个人被俘概率降低
+◆ 舌战攻击力增加8%
+◆ 自身谋害能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1011415","name":"昙世一安","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"司马炎","typeNo":"5177","level":"3","getType":"0","effect":"1/1/1015301/0;7/4/1015601/50;51/0//5;32/0//12","description":"◆ 非在野状态时，获得策略【政通人和】
+◆ 个人被俘概率降低
+◆ 舌战攻击力增加5%
+◆ 自身登用能力提高12%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1013515","name":"忠骨逆髓","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"贾逵贾充","typeNo":"5199","level":"3","getType":"0","effect":"1/4/1000205/0;1/0/1005201/50;30/0//15;31/0//15","description":"◆ 作为城市领袖时时，获得策略【体恤民情（中）】
+◆ 获得策略【苛捐杂税（中）】
+◆ 自身谋害能力提高15%
+◆ 自身解救能力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1011515","name":"当世颜回","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"羊祜","typeNo":"5178","level":"3","getType":"0","effect":"1/1/1004801/0;52/0//10;14/0//15;33/0/1004801/10","description":"◆ 非在野状态时，获得策略【求贤若渴（大）】
+◆ 舌战防御力增加10%
+◆ 所属城市征兵练兵效果提高15%
+◆ 自身外交能力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1011615","name":"国之柱石","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"陆抗","typeNo":"5379","level":"3","getType":"0","effect":"1/1/1000408/0;14/0//15;38/0/1004801/15","description":"◆ 非在野状态时，获得策略【谦逊谨慎】
+◆ 所属城市征兵练兵效果提高15%
+◆ 军团战水战攻击力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1011715","name":"问鼎东南","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"王濬","typeNo":"5380","level":"3","getType":"0","effect":"1/1/1003101/0;16/0//12;38/0/1004801/15","description":"◆ 非在野状态时，获得策略【作战动员（大）】
+◆ 所属城市巡访效果提高12%
+◆ 军团战水战攻击力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1012215","name":"势如破竹","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"杜预","typeNo":"5181","level":"3","getType":"0","effect":"1/1/1003101/0;45/0//15;44/0/1004801/15","description":"◆ 非在野状态时，获得默认策略【作战动员（大）】
+◆ 军团战移动速度增加15%
+◆ 军团战破坏力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1007715","name":"薤露蒿里","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"诸葛诞","typeNo":"5095","level":"3","getType":"0","effect":"1/1/1000905/0;7/4/1015601/50;14/0//8;33/0//10","description":"◆ 非在野状态时，获得策略【作战动员（中）】
+◆ 个人被俘概率降低
+◆ 所属城市征兵练兵效果增加8%
+◆ 自身外交能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1012615","name":"学行坚白","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"王基","typeNo":"5198","level":"3","getType":"0","effect":"1/1/1000905/0;14/0//8;51/0/1015601/5;43/0/1015601/5","description":"◆ 非在野状态时，获得策略【作战动员（中）】
+◆ 所属城市征兵练兵效果增加8%
+◆ 舌战攻击力提高5%
+◆ 军团战陆战防御力提高5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1011815","name":"父荫殇烈","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"诸葛瞻","typeNo":"5195","level":"2","getType":"0","effect":"7/4/1015601/50;17/0//8;56/0//5","description":"◆ 个人被俘概率降低
+◆ 所属城市街区奉行效果增加8%
+◆ 军团战对克制自己的部队暴击率增加5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1007815","name":"淮南忠骨","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"毌丘俭","typeNo":"5096","level":"3","getType":"0","effect":"1/1/1010601/0;7/4/1015601/50;44/0//12;26/0//10","description":"◆ 非在野状态时，获得策略【加速行军（中）】
+◆ 个人被俘概率降低
+◆ 军团战破坏力增加12%
+◆ 自身练兵能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1014115","name":"汉骨魏节","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"王凌","typeNo":"5200","level":"3","getType":"0","effect":"1/1/1008401/0;7/4/1015601/50;43/0//10;30/0//10","description":"◆ 非在野状态时，获得策略【精兵简政（中）】
+◆ 个人被俘概率降低
+◆ 军团战防御力增加10%
+◆ 自身谋害能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1011915","name":"制图六体","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"裴秀","typeNo":"5196","level":"3","getType":"0","effect":"1/1/1004601/0;28/0/1015601/10;2/1//5","description":"◆ 非在野状态时，获得策略【快速研发（大）】
+◆ 科研团队开发效果提高10%
+◆ 所属势力每个月增加科技点5点","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1012015","name":"巧思绝伦","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"马钧","typeNo":"5197","level":"3","getType":"0","effect":"1/1/1004601/0;20/0/1015601/15;2/1//5","description":"◆ 非在野状态时，获得策略【快速研发（大）】
+◆ 自身建造能力提高15%
+◆ 所属势力每个月增加科技点5点","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1005915","name":"魏武子孙","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"曹髦","typeNo":"5278","level":"3","getType":"0","effect":"0/2/1003101/0;51/0//10;3/2//5;56/0//8","description":"◆ 身为君主时，获得默认策略【作战动员（大）】
+◆ 舌战攻击力增加10%
+◆ 身为君主时，每个月势力策略点增加5
+◆ 在军团战中对克制自己的部队暴击率增加8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1011015","name":"文华谲志","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"曹丕","typeNo":"5378","level":"3","getType":"0","effect":"0/2/1006501/0;52/0//5;2/2//5;30/0//10","description":"◆ 身为君主时，获得默认策略【广宣爱民（大）】
+◆ 舌战防御力增加5%
+◆ 身为君主时，每个月势力科技点增加5
+◆ 自身谋害能力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1011115","name":"明断奢殇","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"曹叡","typeNo":"5179","level":"3","getType":"0","effect":"0/2/1010401/0;53/0//10;2/2//5;43/0//8;44/0//8","description":"◆ 身为君主时，获得默认策略【后勤操办（大）】
+◆ 舌战防速度增加10%
+◆ 身为君主时，每个月势力科技点增加5
+◆ 军团战小队防御力、破坏力增加8% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1011215","name":"洛神","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"甄宓","typeNo":"5180","level":"3","getType":"0","effect":"51/0//8;2/1//5;16/0//10;32/0//10","description":"◆ 舌战攻击力增加8%
+◆ 每个月势力科技点增加5
+◆ 所属城市巡防效果增加10%
+◆ 自身登用能力增加10% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1006015","name":"烈祖血裔","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"刘谌","typeNo":"5079","level":"3","getType":"0","effect":"1/1/1003101/0;46/0//8;51/0//8;56/0//8;7/0//40","description":"◆ 非在野状态时，获得默认策略【作战动员（大）】
+◆ 武斗、舌战攻击力增加8%
+◆ 自身被俘概率降低
+◆ 在军团战中对克制自己的部队暴击率增加8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1010215","name":"文教兴国","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"孙休","typeNo":"6078","level":"3","getType":"0","effect":"0/2/1003901/0;51/0//5;30/0//10;2/2//5","description":"◆ 身为君主时，获得默认策略【兴建土木（大）】
+◆ 舌战攻击力增加5%
+◆ 身为君主时，势力每个月增加科技点5点
+◆ 自身谋害能力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1010315","name":"仇海翻波","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"孙皓","typeNo":"6080","level":"3","getType":"0","effect":"0/2/1014301/0;51/0//10;30/0//20","description":"◆ 身为君主时，获得默认策略【暴虐豺王】
+◆ 舌战攻击力增加10%
+◆ 自身谋害能力增加20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1010115","name":"寒江枯木","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"孙亮","typeNo":"6079","level":"3","getType":"0","effect":"51/0//10;41/0//5;7/2//70;30/0//5;31/0//5","description":"◆ 舌战攻击力增加10%
+◆ 自身被俘概率降低
+◆ 获得智魂速度增加5%
+◆ 自身谋害、解救能力增加5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1010415","name":"少帝","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"刘辩曹芳曹奂","typeNo":"6081","level":"2","getType":"0","effect":"7/2//90;17/0//10;32/0//10","description":"◆ 自身被俘概率降低
+◆ 所属城市街区奉行效果提高10%
+◆ 自身登用能力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1010615","name":"无上将军","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"刘宏","typeNo":"6082","level":"2","getType":"0","effect":"7/2//90;12/0//20","description":"◆ 自身被俘概率降低
+◆ 所属城市金钱收入提高20% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002415","name":"地公将军","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张宝","typeNo":"222","level":"3","getType":"0","effect":"1/1/1000715/0;7/1/1015801/60;44/0//10","description":"◆ 非在野状态时，获得策略【地公将军】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队破坏力增加10% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002515","name":"人公将军","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张梁","typeNo":"223","level":"3","getType":"0","effect":"1/1/1000815/0;7/1/1015801/60;43/0//10","description":"◆ 非在野状态时，获得策略【人公将军】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的小队防御力增加10% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1010915","name":"黄巾渠帅","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张曼成波才","typeNo":"224","level":"2","getType":"0","effect":"1/1/1001005/0;46/0//8","description":"◆ 非在野状态时，获得策略【横掠强征（中）】
+◆ 武斗攻击力增加8% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1006615","name":"五子之亚","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"朱灵","typeNo":"5085","level":"2","getType":"0","effect":"1/1/1002805/20;34/0//12;35/0//12;36/0//12;37/0//12;38/0//12;46/0//5","description":"◆ 非在野状态时，获得策略【五子良将】
+◆ 在武斗中攻击力提高5%
+◆ 在军团战中统领的小队攻击力增加12%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1009915","name":"八虎骑","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"夏侯惇夏侯尚","typeNo":"285","level":"3","getType":"0","effect":"1/1/1000915/20;37/0//15;45/0//5;48/0//8","description":"◆ 非在野状态时，获得策略【八虎骑】
+◆ 在武斗中速度提高8%
+◆ 在军团战中统领的骑兵小队攻击力增加15%
+◆ 在军团战中统领的小队速度增加5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1010015","name":"千里袭人","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"夏侯渊","typeNo":"286","level":"3","getType":"0","effect":"1/1/1000915/20;37/0//20;45/0//15;48/0//8","description":"◆ 非在野状态时，获得策略【八虎骑】
+◆ 在军团战中统领的骑兵小队攻击力增加15%
+◆ 在军团战中统领的小队速度增加10%
+◆ 在武斗中速度提高8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1014815","name":"河北正梁","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"韩琼","typeNo":"237","level":"2","getType":"0","effect":"1/1/1002905/15;35/0//10","description":"◆ 非在野状态时，获得策略【河北四庭柱】
+◆ 在军团战中统领的枪兵小队攻击力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1008115","name":"陷阵之势","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"高顺","typeNo":"6000","level":"3","getType":"0","effect":"1/1/1000905/15;34/0//15;35/0//15;37/0//15;44/0//15","description":"◆ 非在野状态时，获得策略【作战动员（中）】
+◆ 在军团战中统领近战小队攻击力增加15%
+◆ 在军团战中破坏力增加15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1012515","name":"幻变人间","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"左慈于吉","typeNo":"239","level":"4","getType":"0","effect":"15/0/1003805/10;7/0/1003705/50;51/0//5;49/0//12;10/0//5","description":"◆ 所属城市治安效果提高10%
+◆ 个人被俘概率降低
+◆ 舌战攻击力增加5%
+◆ 武斗生命值增加12%
+◆ 三魂获得速度增加5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1008615","name":"威行海外","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"公孙度公孙康公孙渊","typeNo":"243","level":"3","getType":"0","effect":"1/1/1003201/15;34/0//5;35/0//5;36/0//5;37/0//5;38/0//5;12/1//5;33/1//5","description":"◆ 非在野状态时，采用默认策略【横掠强征（大）】
+◆ 所属城市金钱收入提高5%
+◆ 在军团战中统领的小队攻击力增加5%
+◆ 自身外交能力提高5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1012415","name":"雍论臼谋","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"蒯良蒯越","typeNo":"244","level":"3","getType":"0","effect":"1/1/1001305/1;51/0/10302/10;16/0//10","description":"◆ 非在野状态时，采用默认策略【强化民生（中）】
+◆ 所属城市巡防效果提高10%
+◆ 舌战攻击力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1007915","name":"傲才绝世","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"诸葛恪","typeNo":"5098","level":"3","getType":"0","effect":"1/1/1003101/1000;53/0//10;25/0//15","description":"◆ 非在野状态时，获得策略【作战动员（大）】
+◆ 在辩论中速度提高10%
+◆ 自身征兵能力增加15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1007415","name":"密重国器","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"顾雍","typeNo":"5092","level":"2","getType":"0","effect":"1/1/1014901/1000;17/0//15","description":"◆ 非在野状态时，获得策略【广交内安】
+◆ 所属城市街区奉行效果增加15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1008215","name":"枯浪哀潮","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张悌","typeNo":"6001","level":"2","getType":"0","effect":"17/0/1014901/10;43/0//5;38/0//5","description":"◆ 所属城市街区奉行效果增加10%
+◆ 军团战防御力增加5%
+◆ 水战攻击力增加5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1008015","name":"富豪","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"曹嵩糜竺鲁肃曹洪","typeNo":"5099","level":"3","getType":"1","effect":"1/1/1000105/20;12/0//15;18/0//15","description":"◆ 非在野状态时，获得策略【生财有道（大）】
+◆ 所属城市金钱收入提高15%
+◆ 自身商业能力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1008315","name":"健将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"吕布韩遂八健将","typeNo":"253","level":"2","getType":"1","effect":"37/0/1004405/8;48/0/1004405/5","description":"◆ 统领骑兵部队时攻击力提高8%
+◆ 武斗速度提高5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1007515","name":"刀将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5093","level":"2","getType":"1","effect":"34/0/1004405/10;47/0/1004405/5","description":"◆ 统领刀兵部队时攻击力提高10%
+◆ 武斗防御力提高5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1007615","name":"枪将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5094","level":"2","getType":"1","effect":"35/0/1004405/10;46/0/1004405/5","description":"◆ 统领枪兵部队时攻击力提高10%
+◆ 武斗攻击力提高5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1000615","name":"工将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5036","level":"2","getType":"1","effect":"39/0//10","description":"◆ 统器械部队耐久增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1000715","name":"工神","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5037","level":"3","getType":"1","effect":"39/0//20","description":"◆ 统器械部队耐久增加20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1000815","name":"水将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5038","level":"2","getType":"1","effect":"38/0//10","description":"◆ 统水战部队时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1000915","name":"水神","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"5039","level":"3","getType":"1","effect":"38/0//20","description":"◆ 统水战部队时攻击力提高20%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1001515","name":"灵明初现","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"61","level":"1","getType":"1","effect":"10/0//5","description":"◆ 三魂点获得速度提高5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1001415","name":"颖悟非凡","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"61","level":"2","getType":"1","effect":"10/0//10","description":"◆ 三魂点获得速度提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1005215","name":"上将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"潘凤邢道荣","typeNo":"200","level":"2","getType":"1","effect":"47/0//6;49/0//6","description":"◆ 在武斗中防御值提升6%
+◆ 在武斗中生命值上限提升6%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1015615","name":"胡将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"","typeNo":"300","level":"2","getType":"1","effect":"48/0//5;37/0//5","description":"◆ 在武斗中速度提升5%
+◆ 军团战骑兵攻击力增加5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1005315","name":"猛者","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"华雄王双","typeNo":"201","level":"3","getType":"1","effect":"46/0//8;49/0//8;37/0//8","description":"◆ 在武斗中攻击力提升8%
+◆ 在武斗中生命值上限提升8%
+◆ 军团战中骑兵攻击力提升8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1006715","name":"仲家大将","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"纪灵","typeNo":"202","level":"3","getType":"1","effect":"47/0//8;49/0//5;35/0//8","description":"◆ 在武斗中防御力提升8%
+◆ 在武斗中生命值上限提升5%
+◆ 军团战中枪兵攻击力提升8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1007315","name":"名士","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"许劭许靖管宁邴原","typeNo":"5091","level":"3","getType":"1","effect":"52/0//10;32/0//10;2/1//3","description":"◆ 在辩论中防御力提升10%
+◆ 自身登用能力提升10%
+◆ 所属势力每月增加科技点3点","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1000115","name":"冢骨妄尊","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"袁术","typeNo":"5030","level":"4","getType":"0","effect":"1/1/1002405/0;7/2//60;12/0//10;30/0//15","description":"◆ 非在野状态时，采用策略【征粮（大）】
+◆ 个人被俘概率降低
+◆ 所属城市金钱收入增加10%
+◆ 计谋谋害能力提升15% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1000215","name":"雄长南州","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"士燮","typeNo":"5031","level":"3","getType":"0","effect":"1/2/1016101/0;7/0//50;3/4//5;16/4/1016101/10","description":"◆ 身为君主时，获得策略【豪强】
+◆ 个人被俘概率降低
+◆ 每个月势力策略点增加5
+◆ 所属城市巡访效果增加10 ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1000315","name":"狼飡虎食","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"李傕郭汜","typeNo":"5032","level":"3","getType":"0","effect":"1/1/1005301/0;7/1//60;44/0//15","description":"◆ 非在野状态时，获得策略【苛捐杂税（大）】
+◆ 个人被俘概率降低
+◆ 在军团战中统领的部队破坏力增加15% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1000415","name":"焚章死节","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"臧洪","typeNo":"5033","level":"4","getType":"0","effect":"1/1/1010401/0;25/0//10;55/0//10;24/0//10","description":"◆ 非在野状态时，获得策略【后勤操办（大）】
+◆ 自身征兵能力提高10%
+◆ 军团战中下次触发暴击速度加快10%
+◆ 城防建设能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1005515","name":"河西铁壁","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"郝昭","typeNo":"5075","level":"3","getType":"0","effect":"1/1/1004001/0;24/0//10;47/0//5;54/0//8","description":"◆ 非在野状态时，获得策略【强制修筑（大）】
+◆ 自身城防建设能力提高10%
+◆ 武斗防御力提高5%
+◆ 军团战防御力提高8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1000515","name":"汉末三杰","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"皇甫嵩朱儁卢植","typeNo":"5034","level":"4","getType":"0","effect":"1/1/1003101/0;7/0//40;43/0//10;33/0//10","description":"◆ 非在野状态时，获得策略【作战动员（大）】
+◆ 个人被俘概率降低
+◆ 军团战陆战防御力增加10%
+◆ 自身外交能力提升10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1011315","name":"台中三狗","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"何晏邓飏丁谧","typeNo":"5134","level":"2","getType":"0","effect":"29/0//10;30/0//10","description":"◆ 自身密谋、谋害能力增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001015","name":"武圣侍从","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"周仓","typeNo":"5035","level":"3","getType":"0","effect":"49/0//15;43/0//8;54/0//8","description":"◆ 武斗生命值上限提高15% 
+◆ 军团战中陆战、水战防御力提升8% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1005415","name":"虎啸龙吟","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"关平","typeNo":"5074","level":"3","getType":"0","effect":"46/0//10;37/0//8;26/0//8","description":"◆ 武斗攻击力提高10% 
+◆ 军团战中骑兵攻击力提升8%
+◆ 自身练兵能力提升8% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1001115","name":"千里行","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"曹休关羽廖化","typeNo":"5040","level":"2","getType":"0","effect":"1/1/1010601/5;48/0//5","description":"◆ 非在野状态时，获得策略【加速行军（中）】
+◆ 武斗速度提高5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001215","name":"孝愍帝","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"刘协","typeNo":"5041","level":"3","getType":"3","effect":"7/0//99;2/0//5;3/0//5;32/0//10;1/0/1007501/90","description":"◆ 非在野状态时，获得策略【妙手回春（大）】
+◆ 个人被俘概率降低
+◆ 每月获得5点科技点和策略点
+◆ 登用能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1001315","name":"佐世之才","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"刘晔","typeNo":"5142","level":"3","getType":"0","effect":"1/1/1000215/0;51/0/1000109/10;46/0/1000109/10;39/0/1000109/10;7/0/1000109/60","description":"◆ 非在野状态时，获得策略【佐世之才】
+◆ 个人被俘概率降低
+◆ 在武斗和舌战中攻击力提高10%
+◆ 统器械部队耐久增加10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1013415","name":"翊戴元功","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"董昭","typeNo":"5042","level":"3","getType":"0","effect":"1/1/1015301/0;53/0/1000109/10;17/0/1000109/12;33/0/1000109/15","description":"◆ 非在野状态时，获得策略【政通人和】
+◆ 舌战中速度提高10%
+◆ 所属城市街区奉行效果增加12%
+◆ 自身外交能力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1001615","name":"奇策百出","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"荀攸","typeNo":"5043","level":"3","getType":"0","effect":"1/1/1000315/0;53/0/1000109/15;27/0/1000109/15","description":"◆ 非在野状态时，获得策略【奇策百出】
+◆ 舌战中速度提高15%
+◆ 自身科研能力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001715","name":"贲育之胆","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"程昱","typeNo":"5044","level":"3","getType":"0","effect":"1/1/1000415/0;47/0//5;52/0//5;43/0//5;24/0//10","description":"◆ 非在野状态时，获得策略【贲育之胆】
+◆ 舌战、武斗、军团陆战中防御力提高5%
+◆ 城防建设能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002215","name":"乱武文和","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"贾诩","typeNo":"5049","level":"3","getType":"0","effect":"1/1/1000515/0;44/0//10;51/0//10;30/0//10","description":"◆ 非在野状态时，获得策略【乱武文和】
+◆ 军团陆战中破坏力提高10%
+◆ 舌战攻击力提高10%
+◆ 谋害能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002315","name":"治世之才","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"陈群","typeNo":"5050","level":"3","getType":"0","effect":"1/1/1000615/0;27/0//10;28/0//10;32/0//10","description":"◆ 非在野状态时，获得策略【治世之才】
+◆ 自身科研能力提高10%
+◆ 科技研发团队效果提高10%
+◆ 自身登用能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1012815","name":"有智而迟","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"陈宫","typeNo":"5150","level":"3","getType":"0","effect":"1/1/1010301/0;22/0//10;51/0//8;29/0//10","description":"◆ 非在野状态时，获得策略【后勤操办（中）】
+◆ 自身巡防能力提高10%
+◆ 舌战攻击力提高8%
+◆ 自身密谋密谈能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1012915","name":"首略规南","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"鲍信","typeNo":"5151","level":"3","getType":"0","effect":"1/1/1008501/0;14/0//10;53/0//10;56/0//10","description":"◆ 非在野状态时，获得策略【精兵简政（大）】
+◆ 所属城市征兵练兵效果提高10%
+◆ 舌战速度提高10%
+◆ 军团战队克制自己的部队暴击率提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002015","name":"北地枭雄","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张绣","typeNo":"5046","level":"4","getType":"0","effect":"1/2/1016001/0;7/4//80;46/0//10;35/0//10;37/0//10","description":"◆ 身为君主时，获得策略【军阀】
+◆ 个人被俘概率降低
+◆ 军团陆战中枪兵、骑兵攻击力提高10%
+◆ 武斗攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1003315","name":"信义昭彰","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"太史慈","typeNo":"5058","level":"4","getType":"0","effect":"1/1/1000905/0;7/4//70;46/0//10;36/0//15;33/0//10","description":"◆ 非在野状态时，获得策略【作战动员（中）】
+◆ 个人被俘概率降低
+◆ 军团战中亲自带远程领部队攻击力提高15%
+◆ 武斗攻击力提高10%
+◆ 自身外交能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1009015","name":"骄锋摧靡","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"麴义","typeNo":"5158","level":"3","getType":"0","effect":"1/1/1003201/0;46/0//8;36/0//15;56/0//15","description":"◆ 非在野状态时，获得策略【横掠强征（大）】
+◆ 军团战中亲自带领远程部队攻击力提高15%
+◆ 武斗攻击力提高8%
+◆ 军团战中对克制自己的部队暴击率提高15% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1010715","name":"凶镬天殛","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"徐荣","typeNo":"5258","level":"3","getType":"0","effect":"1/1/1010701/0;46/0//5;37/0//15;55/0//15","description":"◆ 非在野状态时，获得策略【加速行军（大）】
+◆ 军团战中亲自带领骑兵部队攻击力提高15%
+◆ 武斗攻击力提高5%
+◆ 军团战中触发下次暴击的速度提高15% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1014515","name":"毒虐伥谋","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"李儒","typeNo":"5259","level":"3","getType":"0","effect":"1/1/1001005/0;51/0//5;30/0//20","description":"◆ 非在野状态时，获得策略【强掠横征（中）】
+◆ 舌战攻击力提高5%
+◆ 自身计谋谋害能力提高20% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002115","name":"狷狂傲骨","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"魏延","typeNo":"5048","level":"3","getType":"0","effect":"1/1/1010701/0;44/0//12;49/0//10;24/0//10","description":"◆ 非在野状态时，获得策略【加速行军（大）】
+◆ 军团战中亲自带领部队破坏力提高12%
+◆ 武斗生命值提高10%
+◆ 自身城防建设能力提高10% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1008715","name":"矜才狷忌","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"杨仪","typeNo":"6048","level":"3","getType":"0","effect":"1/1/1010401/0;14/0//12;51/0//5;29/0//5","description":"◆ 非在野状态时，获得策略【后勤操办（大）】
+◆ 所属城市征兵练兵提高12%
+◆ 舌战攻击力提高5%
+◆ 自身密谈能力提高5% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1008815","name":"刚翼怀忠","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张翼","typeNo":"6049","level":"2","getType":"0","effect":"46/0//5;53/0//5;34/0//8;35/0//8","description":"◆ 军团战步兵攻击力提高8%
+◆ 武斗攻击力提高5%
+◆ 舌战速度提高5% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1008915","name":"慷慨豪烈","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"张嶷","typeNo":"6050","level":"2","getType":"0","effect":"48/0//5;51/0//5;55/0//10","description":"◆ 军团战下次触发暴击的速度加快10%
+◆ 武斗速度提高5%
+◆ 舌战攻击力提高5% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1006115","name":"禹汉矜伐","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"邓艾","typeNo":"5080","level":"4","getType":"0","effect":"1/1/1010701/0;44/0//15;19/0//10;42/0//5","description":"◆ 非在野状态时，获得策略【加速行军（大）】
+◆ 军团战中亲自带领部队破坏力提高15%
+◆ 自身农业能力提高10%
+◆ 获得军魂时增加5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1006215","name":"狂肆桀骜","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"钟会","typeNo":"5081","level":"4","getType":"0","effect":"1/1/1000108/0;30/0//15;41/0//5","description":"◆ 非在野状态时，获得策略【王佐之才】
+◆ 自身谋害能力提高15%
+◆ 获得智魂时增加5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1006315","name":"万人之雄","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"文鸯","typeNo":"5082","level":"4","getType":"0","effect":"37/0//12;45/0//8;46/0//15;40/0//5","description":"◆ 统领骑兵部队时攻击力提高12% 
+◆ 军团战移动速度提高8%
+◆ 武斗攻击力提高15%
+◆ 获得武魂时增加5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1014715","name":"浪子国殇","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"周处","typeNo":"5282","level":"4","getType":"0","effect":"34/0//12;43/0//10;46/0//12;23/0//15","description":"◆ 统领刀兵部队时攻击力提高12% 
+◆ 军团防御力提高10%
+◆ 武斗攻击力提高12%
+◆ 自身搜索能力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1003215","name":"矢志贯虹","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"黄忠","typeNo":"5057","level":"4","getType":"0","effect":"1/1/1010301/0;36/0//20;48/0//15","description":"◆ 非在野状态时，获得策略【后勤操办（中）】
+◆ 军团战中亲自带远程领部队攻击力提高20%
+◆ 武斗速度提高15% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002915","name":"天人将军","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"曹仁","typeNo":"5054","level":"4","getType":"0","effect":"1/1/1003101/0;43/0//15;47/0//10;24/0//10","description":"◆ 非在野状态时，获得策略【作战动员（大）】
+◆ 军团战中亲自带领部队防御力提高15%
+◆ 武斗防御力提高10%
+◆ 自身城防建设能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1003015","name":"匡和孙刘","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"鲁肃","typeNo":"5055","level":"4","getType":"0","effect":"1/1/1005601/0;7/0//80;52/0//10;33/0//15;31/0//10","description":"◆ 非在野状态时，获得策略【强化外交（大）】
+◆ 个人被俘概率降低
+◆ 舌战防御力提高10%
+◆ 自身外交能力提高15%
+◆ 自身计谋解救能力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1004015","name":"正南义北","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"审配","typeNo":"5263","level":"3","getType":"0","effect":"1/1/1003901/0;51/0//10;36/0//12","description":"◆ 非在野状态时，获得策略【兴修土木（大）】
+◆ 舌战攻击力提高10%
+◆ 统远程部队时攻击力提高12% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1004215","name":"河北谋主","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"荀谌","typeNo":"5067","level":"3","getType":"0","effect":"1/1/1001305/0;52/0//10;29/0//12","description":"◆ 非在野状态时，获得策略【强化民生（中）】
+◆ 舌战防御力提高10%
+◆ 自身计谋密谈能力提高12% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1004415","name":"监军威烈","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"沮授","typeNo":"5065","level":"3","getType":"0","effect":"1/1/1003101/0;26/0//10;3/1//5;43/0//15","description":"◆ 非在野状态时，获得策略【作战动员（大）】
+◆ 自身练兵能力提高10%
+◆ 所属势力每月获得策略点5点
+◆ 军团战陆战防御力提高15%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1004715","name":"计权合变","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"田丰","typeNo":"5068","level":"3","getType":"0","effect":"1/1/1002205/0;25/0//10;3/1//5;13/0//10","description":"◆ 非在野状态时，获得策略【强化农业（大）】
+◆ 自身征兵能力提高10%
+◆ 所属势力每月获得策略点5点
+◆ 所属城市军粮收入提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1006815","name":"阋墙相残","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"袁谭袁尚孙和孙霸","typeNo":"5086","level":"2","getType":"0","effect":"26/0//5;34/0//5;35/0//5;36/0//5;37/0//5;1/4/1016001/0","description":"◆ 自身练兵能力提高5%
+◆ 在军团战中统领的陆战小队攻击力增加5%
+◆ 作为城市领袖时，获得策略【军阀】","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1013315","name":"烈闺悲阙","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"袁思阙","typeNo":"5186","level":"3","getType":"0","effect":"46/0//12;34/0//8;35/0//8;36/0//8;37/0//8;1/1/1003101/0","description":"◆ 武斗攻击力提高12%
+◆ 在军团战中统领的陆战小队攻击力增加8%
+◆ 非在野状态时，获得策略【作战动员（大）】","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1006915","name":"文武秀出","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"高干","typeNo":"5087","level":"2","getType":"0","effect":"51/0//5;47/0//8","description":"◆ 舌战攻击力提高5%
+◆ 武斗防御力提高8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1005115","name":"法御南疆","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"满宠","typeNo":"5073","level":"3","getType":"0","effect":"1/4/1003901/0;15/4//15;22/0//15;43/0//8","description":"◆ 身为城市领袖时，获得策略【兴修土木（大）】
+◆ 作为城市领袖时，所属城市治安效果提高15%
+◆ 自身巡防能力提高15%
+◆ 军团战陆战时防御力增加8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1007015","name":"清正风骨","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"崔琰毛玠","typeNo":"5088","level":"2","getType":"0","effect":"1/1/1000209/0;21/0//10;2/0//5","description":"◆ 非在野状态时，获得策略【人才选拔（改）】
+◆ 自身治安能力提高10%
+◆ 每个月势力科技点增加5 ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1006415","name":"北疆双璧","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"田豫牵招","typeNo":"5083","level":"3","getType":"0","effect":"1/4/1003901/0;16/4//15;37/0//10;43/0//8","description":"◆ 身为城市领袖时，获得策略【兴修土木（大）】
+◆ 作为城市领袖时，所属城市巡防效果提高15%
+◆ 统领骑兵部队时攻击力提高10%
+◆ 军团战陆战时防御力增加8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1004315","name":"军中长者","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"李典诸葛瑾","typeNo":"5066","level":"3","getType":"0","effect":"1/1/1005401/0;43/0//8;47/0//5;31/0//10;52/0//5","description":"◆ 非在野状态时，获得策略【自民巡逻（中）】
+◆ 军团战防御力提高8%
+◆ 武斗、舌战防御力提高5%
+◆ 自身计谋解救能力提高10% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001815","name":"忠勇猛烈","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"陈到","typeNo":"5045","level":"3","getType":"0","effect":"35/0//10;46/0//10;55/0//5","description":"◆ 军团陆战中亲自率领枪兵攻击力提高10%
+◆ 武斗攻击力提高10%
+◆ 军团战中下次触发暴击速度加快5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1001915","name":"汉魏殊途","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"黄权","typeNo":"5047","level":"3","getType":"0","effect":"33/0//10;38/0//10;51/0//10","description":"◆ 自身外交能力提高10% 
+◆ 军团水战中攻击力提高10%
+◆ 舌战攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1013215","name":"朝秦暮楚","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"孟达唐咨","typeNo":"5147","level":"2","getType":"0","effect":"33/0//15;7/0//50","description":"◆ 自身外交能力提高15% 
+◆ 自身被俘概率降低","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1014215","name":"腹有鳞甲","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"李严","typeNo":"5148","level":"2","getType":"0","effect":"29/0//15;52/0//10;36/0//10","description":"◆ 自身谋害能力提高15% 
+◆ 舌战防御力提高10%
+◆ 统远程部队时攻击力提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1002615","name":"东吴德王","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"严白虎","typeNo":"5051","level":"3","getType":"0","effect":"7/0//60;12/1//5;25/0//5;1/2/1016101/0","description":"◆ 个人被俘概率降低
+◆ 所属城市金钱收入增加5%
+◆ 自身征兵能力提高5%
+◆ 身为君主时，获得策略【豪强】","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1005715","name":"东吴歌王","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"留赞","typeNo":"5078","level":"3","getType":"0","effect":"14/1//5;50/0//8;51/0/1016101/8","description":"◆ 所属城市征兵练兵效果增加5%
+◆ 武斗真气值上限提高8%
+◆ 舌战攻击力提高8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002715","name":"江东铁壁","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"徐盛","typeNo":"5052","level":"3","getType":"0","effect":"24/0//10;54/0//10;46/0//8","description":"◆ 自身城防建设能力增加10%
+◆ 亲自带领水战部队时防御力提高10%
+◆ 在武斗中攻击力提高8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1002815","name":"五溪番王","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"沙摩柯","typeNo":"5053","level":"3","getType":"0","effect":"46/0//8;36/0//10;49/0//10","description":"◆ 在武斗中攻击力增加8%
+◆ 亲自带领弓（骑）兵攻击力提高10%
+◆ 在武斗中生命值上限提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1003115","name":"怀橘陆郎","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"陆绩","typeNo":"5056","level":"3","getType":"0","effect":"1/1/1000505/60;51/0//10;2/0//5;4/1//5","description":"◆ 非在野状态时，获得策略【强化民生（大）】
+◆ 在舌战中攻击力增加10%
+◆ 每月增加科技点5点
+◆ 非在野状态时，提高势力科技研发速度5%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1004115","name":"南土文宗","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"薛综","typeNo":"5073","level":"2","getType":"0","effect":"1/1/1004401/60;2/0//5;28/0//10","description":"◆ 非在野状态时，获得策略【忠良教育（中）】
+◆ 每月增加科技点5点
+◆ 科研团队效果提高10%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1003415","name":"浮生称象","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"曹冲","typeNo":"5060","level":"3","getType":"0","effect":"41/0//10;2/1//5;3/1//5;1/1/1006401/10","description":"◆ 智魂点获得速度提高10%
+◆ 每个月势力策略点增加5，科技点增加5
+◆ 非在野状态时，获得策略【广宣爱民（中）】","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1012715","name":"明嫡弼国","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"孙登","typeNo":"5160","level":"3","getType":"0","effect":"2/1//5;3/1//5;1/1/1006401/10;16/0//15","description":"◆ 所属城市巡防效果增加15%
+◆ 每个月势力策略点增加5，科技点增加5
+◆ 非在野状态时，获得策略【广宣爱民（中）】","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1003515","name":"白眉最良","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"马良","typeNo":"5059","level":"3","getType":"0","effect":"33/0//10;29/0//10;52/0//10;1/1/1008501/10","description":"◆ 自身外交能力提高10%
+◆ 自身计谋密谈能力提高10%
+◆ 舌战防御力提高10%
+◆ 非在野状态时，获得策略【精兵简政（大）】","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1003815","name":"梦梅居士","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"娄圭","typeNo":"5069","level":"3","getType":"0","effect":"23/0//10;3/0//5;52/0//10","description":"◆ 自身探索能力提高10%
+◆ 每月增加策略点5点
+◆ 舌战防御力提高10% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1003715","name":"心战愎才","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"马谡","typeNo":"5061","level":"3","getType":"0","effect":"30/0//15;51/0//10;1/1/1005401/10","description":"◆ 自身计谋谋害能力提高15%
+◆ 舌战攻击力提高10%
+◆ 非在野状态时，获得策略【自民巡逻（中）】","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1006515","name":"构祸双枢","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"郭图逄纪","typeNo":"5084","level":"3","getType":"0","effect":"30/0//15;53/0//8;29/0/1005401/12","description":"◆ 自身计谋谋害能力提高15%
+◆ 舌战速度提高8%
+◆ 自身计谋密谈能力提高12%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1003915","name":"嘘枯吹生","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"孔伷","typeNo":"5062","level":"2","getType":"0","effect":"32/0//10;1/1/1008401/10","description":"◆ 自身登用能力提高10%
+◆ 非在野状态时，获得策略【精兵简政（中）】","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1004515","name":"董狐直笔","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"陈寿","typeNo":"5063","level":"3","getType":"0","effect":"1/1/1001305/10;3/1//5;33/0//10","description":"◆ 非在野状态时，获得策略【强化民生（中）】
+◆ 所属势力每月获得策略点5点
+◆ 自身外交能力提高10% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1004615","name":"血嗣孤殇","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"刘封","typeNo":"5064","level":"3","getType":"0","effect":"37/0//15;46/0//8","description":"◆ 统领骑兵部队时攻击力提高15%
+◆ 在武斗中攻击力提高8% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1004815","name":"黄须儿","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"曹彰","typeNo":"5070","level":"3","getType":"0","effect":"37/0//12;46/0//10;45/0//5","description":"◆ 统领骑兵部队时攻击力提高12%
+◆ 在军团战中统领的小队移动速度增加5%
+◆ 在武斗中攻击力提高10% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1005015","name":"子丹佳人","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"曹真","typeNo":"5072","level":"3","getType":"0","effect":"1/1/1000915/10;44/0//10;37/0//15;26/0//8","description":"◆ 非在野状态时，获得策略【八虎骑】
+◆ 军团战破坏力提高10%
+◆ 在军团战中统领的骑兵小队攻击力增加15%
+◆ 自身练兵能力提高8%","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1013815","name":"产禄豚犊","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"曹爽","typeNo":"5272","level":"1","getType":"0","effect":"1/1/1005201/10;52/0//5","description":"◆ 非在野状态时，获得策略【苛捐杂税（中）】
+◆ 舌战防御力提高5% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"15","id":"1014915","name":"犬彘屠儿","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"何进","typeNo":"5273","level":"1","getType":"0","effect":"1/1/1005201/10;47/0//5","description":"◆ 非在野状态时，获得策略【苛捐杂税（中）】
+◆ 武斗防御力提高5% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
+{"userIndex":"9","id":"1004915","name":"八斗之才","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","remark":"曹植","typeNo":"5071","level":"3","getType":"0","effect":"4/1//5;27/0//10;53/0//12","description":"◆ 势力科技研发速度提高5%
+◆ 自身科研能力提高10%
+◆ 舌战速度提高12% ","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""}
+]

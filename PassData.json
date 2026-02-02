@@ -1,0 +1,11 @@
+[
+{"userIndex":"-1","id":"虎牢关","name":"虎牢关","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","iconID":"关口","defenceEffect":"1","defenceEffectVal":"20","antiVal":"3000"},
+{"userIndex":"-1","id":"潼关","name":"潼关","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","iconID":"关口","defenceEffect":"1","defenceEffectVal":"20","antiVal":"3000"},
+{"userIndex":"-1","id":"天井关","name":"天井关","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","iconID":"关口","defenceEffect":"1","defenceEffectVal":"20","antiVal":"3000"},
+{"userIndex":"-1","id":"武关","name":"武关","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","iconID":"关口","defenceEffect":"1","defenceEffectVal":"20","antiVal":"3000"},
+{"userIndex":"-1","id":"壶关","name":"壶关","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","iconID":"关口","defenceEffect":"1","defenceEffectVal":"20","antiVal":"3000"},
+{"userIndex":"-1","id":"剑阁","name":"剑阁","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","iconID":"关口","defenceEffect":"1","defenceEffectVal":"30","antiVal":"3000"},
+{"userIndex":"-1","id":"葭萌关","name":"葭萌关","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","iconID":"关口","defenceEffect":"1","defenceEffectVal":"20","antiVal":"3000"},
+{"userIndex":"-1","id":"汉平关","name":"汉平关","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","iconID":"关口","defenceEffect":"1","defenceEffectVal":"20","antiVal":"3000"},
+{"userIndex":"-1","id":"阳平关","name":"阳平关","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","iconID":"关口","defenceEffect":"1","defenceEffectVal":"20","antiVal":"3000"}
+]
