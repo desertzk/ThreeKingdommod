@@ -1,32 +1,3 @@
-[
-{"eventID":"2060819","weight":"10","else":"0","condition":"","conversation":"10088419"},
-{"eventID":"2044305","weight":"10","else":"0","condition":"","conversation":"Bd1005605"},
-{"eventID":"1239408","weight":"10","else":"0","condition":"","conversation":"10009608"},
-{"eventID":"1858119","weight":"10","else":"0","condition":"","conversation":"10056819"},
-{"eventID":"1439408","weight":"10","else":"0","condition":"","conversation":"10028708"},
-{"eventID":"1366905","weight":"10","else":"0","condition":"","conversation":"10086605"},
-{"eventID":"1048209","weight":"10","else":"0","condition":"","conversation":"10004709"},
-{"eventID":"1971205","weight":"10","else":"0","condition":"","conversation":"10153805"},
-{"eventID":"2044405","weight":"10","else":"0","condition":"","conversation":"Bd1005705"},
-{"eventID":"1986505","weight":"10","else":"0","condition":"","conversation":"Bd1004505"},
-{"eventID":"2045105","weight":"10","else":"0","condition":"","conversation":"Bd1005505"},
-{"eventID":"1370708","weight":"10","else":"0","condition":"","conversation":"Bd1001508"},
-{"eventID":"1136808","weight":"10","else":"0","condition":"","conversation":"10008508"},
-{"eventID":"1033208","weight":"10","else":"0","condition":"","conversation":"10022908"},
-{"eventID":"1181808","weight":"10","else":"0","condition":"","conversation":"Bd1003305"},
-{"eventID":"1921605","weight":"10","else":"0","condition":"","conversation":"Bd1003105"},
-{"eventID":"1003919","weight":"10","else":"0","condition":"","conversation":"10000319"},
-{"eventID":"1368705","weight":"10","else":"0","condition":"","conversation":"10162505"},
-{"eventID":"2011705","weight":"10","else":"0","condition":"","conversation":"10127005"},
-{"eventID":"1105309","weight":"10","else":"0","condition":"","conversation":"10008509"},
-{"eventID":"1250108","weight":"10","else":"0","condition":"","conversation":"10008708"},
-{"eventID":"1391005","weight":"10","else":"0","condition":"","conversation":"10162605"},
-{"eventID":"1182008","weight":"10","else":"0","condition":"","conversation":"Bd1003405"},
-{"eventID":"1136908","weight":"10","else":"0","condition":"","conversation":"10008608"},
-{"eventID":"1033308","weight":"10","else":"0","condition":"1/玩家身份/!=/在野;4/上级领导/1/2/0//0","conversation":"10023308"},
-{"eventID":"1033308","weight":"10","else":"1","condition":"","conversation":"10023708"},
-{"eventID":"1986405","weight":"10","else":"0","condition":"","conversation":"Bd1004505"},
-{"eventID":"1848119","weight":"10","else":"0","condition":"","conversation":"10064719"},
-{"eventID":"1910205","weight":"10","else":"0","condition":"","conversation":"Bd1003005"},
-{"eventID":"1390905","weight":"10","else":"0","condition":"","conversation":"10162405"}
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ee87246d4abc3601db1dc14d8857001ad820e92ddf55d52e043c3dff5879225
+size 2761

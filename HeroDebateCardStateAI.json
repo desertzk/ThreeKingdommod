@@ -1,10 +1,3 @@
-[
-{"id":"10013","target":"0","AIType":"4","AIType2":"5","AIValueType":"0","AIValue":"2","AIFormula":"","strID":""},
-{"id":"10014","target":"0","AIType":"4","AIType2":"0","AIValueType":"1","AIValue":"1","AIFormula":"(8-CardAP)/3","strID":""},
-{"id":"10002","target":"0","AIType":"4","AIType2":"0","AIValueType":"0","AIValue":"1.5","AIFormula":"","strID":""},
-{"id":"1008702","target":"0","AIType":"4","AIType2":"0","AIValueType":"0","AIValue":"1.5","AIFormula":"","strID":""},
-{"id":"1006805","target":"0","AIType":"4","AIType2":"6","AIValueType":"0","AIValue":"3","AIFormula":"","strID":"1004105"},
-{"id":"1003505","target":"0","AIType":"4","AIType2":"1","AIValueType":"0","AIValue":"2","AIFormula":"","strID":""},
-{"id":"1014705","target":"0","AIType":"4","AIType2":"3","AIValueType":"0","AIValue":"1.5","AIFormula":"","strID":""},
-{"id":"1014705","target":"0","AIType":"4","AIType2":"2","AIValueType":"0","AIValue":"1.5","AIFormula":"","strID":""}
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a76a8bbaae1d91ce5b4ac18ff28c2111ed4e47e83acd84383c29ead53181b7f
+size 960

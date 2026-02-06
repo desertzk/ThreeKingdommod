@@ -1,13 +1,3 @@
-[
-{"userIndex":"1","index":"0","soulExp":"0","battleDrawNum":"1","battleAPRecovery":"2","debateDrawNum":"1","debateAPRecovery":"2","soulNum":"0","cardNum":"0"},
-{"userIndex":"1","index":"1","soulExp":"500","battleDrawNum":"1","battleAPRecovery":"3","debateDrawNum":"1","debateAPRecovery":"3","soulNum":"1","cardNum":"1"},
-{"userIndex":"2","index":"2","soulExp":"1000","battleDrawNum":"2","battleAPRecovery":"3","debateDrawNum":"2","debateAPRecovery":"3","soulNum":"1","cardNum":"1"},
-{"userIndex":"2","index":"3","soulExp":"2000","battleDrawNum":"2","battleAPRecovery":"3","debateDrawNum":"2","debateAPRecovery":"3","soulNum":"2","cardNum":"2"},
-{"userIndex":"2","index":"4","soulExp":"4000","battleDrawNum":"2","battleAPRecovery":"4","debateDrawNum":"3","debateAPRecovery":"4","soulNum":"2","cardNum":"2"},
-{"userIndex":"3","index":"5","soulExp":"6000","battleDrawNum":"3","battleAPRecovery":"5","debateDrawNum":"3","debateAPRecovery":"5","soulNum":"3","cardNum":"3"},
-{"userIndex":"3","index":"6","soulExp":"8000","battleDrawNum":"3","battleAPRecovery":"6","debateDrawNum":"4","debateAPRecovery":"6","soulNum":"3","cardNum":"3"},
-{"userIndex":"3","index":"7","soulExp":"11000","battleDrawNum":"3","battleAPRecovery":"7","debateDrawNum":"4","debateAPRecovery":"7","soulNum":"4","cardNum":"4"},
-{"userIndex":"3","index":"8","soulExp":"14000","battleDrawNum":"3","battleAPRecovery":"8","debateDrawNum":"4","debateAPRecovery":"8","soulNum":"4","cardNum":"4"},
-{"userIndex":"4","index":"9","soulExp":"17000","battleDrawNum":"4","battleAPRecovery":"9","debateDrawNum":"5","debateAPRecovery":"9","soulNum":"5","cardNum":"5"},
-{"userIndex":"4","index":"10","soulExp":"20000","battleDrawNum":"4","battleAPRecovery":"10","debateDrawNum":"5","debateAPRecovery":"9","soulNum":"5","cardNum":"5"}
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f36af8a6df623038aa7a28194480952565338265e794774280cdfb67f0665756
+size 1798

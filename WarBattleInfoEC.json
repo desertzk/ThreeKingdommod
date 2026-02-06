@@ -1,15 +1,3 @@
-[
-{"battleID":"W100302","start":"1","else":"0","once":"0","group":"0","condition":"","event":"2085602"},
-{"battleID":"W100302","start":"1","else":"0","once":"0","group":"0","condition":"","event":"2848702"},
-{"battleID":"W100302","start":"1","else":"0","once":"0","group":"0","condition":"","event":"2256402"},
-{"battleID":"W100102","start":"1","else":"0","once":"0","group":"0","condition":"","event":"1593402"},
-{"battleID":"W100102","start":"1","else":"0","once":"0","group":"0","condition":"","event":"2848602"},
-{"battleID":"W100102","start":"1","else":"0","once":"0","group":"0","condition":"","event":"2256302"},
-{"battleID":"W100202","start":"1","else":"0","once":"0","group":"0","condition":"","event":"1477602"},
-{"battleID":"W100202","start":"1","else":"0","once":"0","group":"0","condition":"","event":"2848502"},
-{"battleID":"W100202","start":"1","else":"0","once":"0","group":"0","condition":"","event":"2256202"},
-{"battleID":"W100402","start":"1","else":"0","once":"0","group":"0","condition":"","event":"1426802"},
-{"battleID":"W100402","start":"1","else":"0","once":"0","group":"0","condition":"","event":"1424102"},
-{"battleID":"W100402","start":"1","else":"0","once":"0","group":"0","condition":"","event":"2220202"},
-{"battleID":"W100402","start":"1","else":"0","once":"0","group":"0","condition":"","event":"2220302"}
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b81306e68726d89a60e87fec5f246d258a1f3e4f4578edf11d2d426e335530ef
+size 1355

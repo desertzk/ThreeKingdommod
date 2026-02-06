@@ -1,35 +1,3 @@
-[
-{"storyID":"S10802","else":"0","once":"0","condition":"","event":"1829308;1829408;1829508;1829608;1829708;1829808;1835308"},
-{"storyID":"S10802","else":"0","once":"0","condition":"","event":"1829908"},
-{"storyID":"S10615","else":"0","once":"0","condition":"","event":"1821608;1824708;1824808;1824908;1828708;1829008;1829108"},
-{"storyID":"S10615","else":"0","once":"0","condition":"","event":"1829208"},
-{"storyID":"S10402","else":"0","once":"0","condition":"","event":"1706108;1014008;1014308;1646308;1000908;1011508"},
-{"storyID":"S10402","else":"0","once":"0","condition":"","event":"1129308"},
-{"storyID":"S10415","else":"0","once":"0","condition":"","event":"1841008;1841108;1841208;1841308;1843408"},
-{"storyID":"S10415","else":"0","once":"0","condition":"","event":"1844608"},
-{"storyID":"S10202","else":"0","once":"0","condition":"","event":"1706308;1014108;1014208;1646008;1707008"},
-{"storyID":"S10202","else":"0","once":"0","condition":"","event":"1115508"},
-{"storyID":"S10715","else":"0","once":"0","condition":"","event":"1766108;1766808;1766908"},
-{"storyID":"S10715","else":"0","once":"0","condition":"","event":"1767108"},
-{"storyID":"S10102","else":"0","once":"0","condition":"","event":"1706408"},
-{"storyID":"S10102","else":"0","once":"0","condition":"","event":"1115608"},
-{"storyID":"S10315","else":"0","once":"0","condition":"","event":"1840908"},
-{"storyID":"S10315","else":"0","once":"0","condition":"","event":"1850008"},
-{"storyID":"S10302","else":"0","once":"0","condition":"","event":"1185009"},
-{"storyID":"S10302","else":"0","once":"0","condition":"","event":"1185109"},
-{"storyID":"S10302","else":"0","once":"0","condition":"","event":"1185309"},
-{"storyID":"S10302","else":"0","once":"0","condition":"","event":"1185209"},
-{"storyID":"S10302","else":"0","once":"0","condition":"","event":"1706508"},
-{"storyID":"S10302","else":"0","once":"0","condition":"","event":"1000508"},
-{"storyID":"S10602","else":"0","once":"0","condition":"","event":"1706608"},
-{"storyID":"S10602","else":"0","once":"0","condition":"","event":"1000608"},
-{"storyID":"S10502","else":"0","once":"0","condition":"","event":"1706708"},
-{"storyID":"S10502","else":"0","once":"0","condition":"","event":"1000708"},
-{"storyID":"S10815","else":"0","once":"0","condition":"","event":"1006208"},
-{"storyID":"S10702","else":"0","once":"0","condition":"","event":"1000808"},
-{"storyID":"S10115","else":"0","once":"0","condition":"","event":"1751608"},
-{"storyID":"S10915","else":"0","once":"0","condition":"","event":"1006308"},
-{"storyID":"S10215","else":"0","once":"0","condition":"","event":"1751708"},
-{"storyID":"S10208","else":"0","once":"0","condition":"","event":"1813708"},
-{"storyID":"S10108","else":"0","once":"0","condition":"","event":"1633108"}
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:53ac232eddd98edefc2c652f28831d492874108063a52b13e75dce00e6063856
+size 2793

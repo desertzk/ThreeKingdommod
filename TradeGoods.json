@@ -1,31 +1,3 @@
-[
-{"userIndex":"4","id":"1000104","name":"龙井","icon":"","relateResource":"5","price":"100","commonThreshold":"2000","commonOutput":"2","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"4","id":"1000204","name":"西凉大马","icon":"","relateResource":"4","price":"100","commonThreshold":"10000","commonOutput":"2","isSpecial":"1","cityInfo":"CS1033/5000/2","description":""},
-{"userIndex":"4","id":"1000304","name":"大宛马","icon":"","relateResource":"4","price":"120","commonThreshold":"2000","commonOutput":"2","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"4","id":"1000404","name":"生铁","icon":"","relateResource":"1","price":"50","commonThreshold":"2000","commonOutput":"4","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"4","id":"1000504","name":"熟铁","icon":"","relateResource":"1","price":"60","commonThreshold":"5000","commonOutput":"2","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"4","id":"1000604","name":"盐","icon":"","relateResource":"6","price":"30","commonThreshold":"2000","commonOutput":"3","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"4","id":"1000704","name":"精盐","icon":"","relateResource":"6","price":"70","commonThreshold":"5000","commonOutput":"2","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"4","id":"1000804","name":"粗布料","icon":"","relateResource":"7","price":"40","commonThreshold":"2500","commonOutput":"3","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"4","id":"1000904","name":"细布料","icon":"","relateResource":"7","price":"60","commonThreshold":"5000","commonOutput":"2","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"1","id":"1000301","name":"茶末","icon":"","relateResource":"5","price":"50","commonThreshold":"0","commonOutput":"5","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"1","id":"1000501","name":"驮马","icon":"","relateResource":"4","price":"100","commonThreshold":"0","commonOutput":"2","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"1","id":"1000401","name":"陈茶","icon":"","relateResource":"5","price":"80","commonThreshold":"500","commonOutput":"2","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"1","id":"1000601","name":"战马","icon":"","relateResource":"4","price":"150","commonThreshold":"1000","commonOutput":"1","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"1","id":"1000701","name":"生铁","icon":"","relateResource":"1","price":"70","commonThreshold":"0","commonOutput":"5","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"1","id":"1000801","name":"熟铁","icon":"","relateResource":"1","price":"120","commonThreshold":"1000","commonOutput":"2","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"1","id":"1000901","name":"紫盐","icon":"","relateResource":"6","price":"90","commonThreshold":"1000","commonOutput":"5","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"1","id":"1001001","name":"青盐","icon":"","relateResource":"6","price":"130","commonThreshold":"3000","commonOutput":"2","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"1","id":"1001101","name":"麻布","icon":"","relateResource":"7","price":"60","commonThreshold":"0","commonOutput":"5","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"1","id":"1001201","name":"细布","icon":"","relateResource":"7","price":"110","commonThreshold":"2000","commonOutput":"5","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"1","id":"1001301","name":"灰陶","icon":"","relateResource":"3","price":"40","commonThreshold":"0","commonOutput":"6","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"1","id":"1001401","name":"硬陶","icon":"","relateResource":"3","price":"90","commonThreshold":"2000","commonOutput":"3","isSpecial":"0","cityInfo":"","description":""},
-{"userIndex":"1","id":"1001501","name":"西凉大马","icon":"","relateResource":"4","price":"500","commonThreshold":"0","commonOutput":"0","isSpecial":"1","cityInfo":"CS1014/0/20","description":""},
-{"userIndex":"1","id":"1001601","name":"陶瓷","icon":"","relateResource":"3","price":"500","commonThreshold":"0","commonOutput":"0","isSpecial":"1","cityInfo":"CS1028/0/20","description":""},
-{"userIndex":"1","id":"1001701","name":"陶瓷","icon":"","relateResource":"3","price":"500","commonThreshold":"0","commonOutput":"0","isSpecial":"1","cityInfo":"CS1026/0/20","description":""},
-{"userIndex":"1","id":"1001801","name":"布料","icon":"","relateResource":"7","price":"500","commonThreshold":"0","commonOutput":"0","isSpecial":"1","cityInfo":"CS1039/0/20","description":""},
-{"userIndex":"1","id":"1001901","name":"盐","icon":"","relateResource":"6","price":"500","commonThreshold":"0","commonOutput":"0","isSpecial":"1","cityInfo":"CS1017/0/20","description":""},
-{"userIndex":"1","id":"1002001","name":"盐","icon":"","relateResource":"6","price":"500","commonThreshold":"0","commonOutput":"0","isSpecial":"1","cityInfo":"CS1058/0/20","description":""},
-{"userIndex":"1","id":"1002101","name":"布料","icon":"","relateResource":"7","price":"500","commonThreshold":"0","commonOutput":"0","isSpecial":"1","cityInfo":"CS1053/0/20","description":""},
-{"userIndex":"1","id":"1002201","name":"马","icon":"","relateResource":"4","price":"500","commonThreshold":"0","commonOutput":"0","isSpecial":"1","cityInfo":"CS1044/0/20","description":""}
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0eb95dabe53b6a44985bb2affe0a759c99e72815d0b3f0e4e0ed69fb94b3eecb
+size 5484

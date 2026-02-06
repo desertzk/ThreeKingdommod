@@ -1,7 +1,3 @@
-[
-{"userIndex":"-1","id":"101","name":"井阑","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","icon":"井阑","attack":"100","damage":"100","defence":"50","range":"100","price":"500","assembleDay":"3","description":"","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
-{"userIndex":"4","id":"102","name":"投石车","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","icon":"投石车","attack":"100","damage":"100","defence":"50","range":"100","price":"500","assembleDay":"3","description":"","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
-{"userIndex":"4","id":"103","name":"冲车","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","icon":"冲车","attack":"100","damage":"100","defence":"50","range":"100","price":"500","assembleDay":"3","description":"","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
-{"userIndex":"4","id":"104","name":"云梯","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","icon":"云梯","attack":"100","damage":"100","defence":"50","range":"100","price":"500","assembleDay":"3","description":"","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""},
-{"userIndex":"4","id":"105","name":"木兽","nameTc":"","nameEn":"","nameJp":"","nameKr":"","nameOther":"","icon":"木兽","attack":"100","damage":"100","defence":"50","range":"100","price":"500","assembleDay":"3","description":"","descriptionTc":"","descriptionEn":"","descriptionJp":"","descriptionKr":"","descriptionOther":""}
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:04c6f911aab9c30387212064bb9fa77e561bd55748241ecc524287b362da1847
+size 1670

@@ -1,22 +1,3 @@
-[
-{"equipID":"WP1016402","else":"0","once":"0","condition":"","event":"1838302"},
-{"equipID":"WP1016502","else":"0","once":"0","condition":"","event":"1838502"},
-{"equipID":"WP1016502","else":"0","once":"0","condition":"","event":"1838702"},
-{"equipID":"WP1016602","else":"0","once":"0","condition":"","event":"1847402"},
-{"equipID":"WP1016602","else":"0","once":"0","condition":"","event":"1852102"},
-{"equipID":"WP1016802","else":"0","once":"0","condition":"","event":"1852402"},
-{"equipID":"WP1016802","else":"0","once":"0","condition":"","event":"1852802"},
-{"equipID":"WP1016702","else":"0","once":"0","condition":"","event":"1852902;1853702"},
-{"equipID":"WP1016902","else":"0","once":"0","condition":"4/子女/0/0/0//0","event":"1854302"},
-{"equipID":"WP1016902","else":"0","once":"0","condition":"","event":"1423605"},
-{"equipID":"WP1017002","else":"0","once":"0","condition":"4/子女/0/0/0//0","event":"1854502"},
-{"equipID":"WP1017002","else":"0","once":"0","condition":"","event":"1431005"},
-{"equipID":"WP1017302","else":"0","once":"0","condition":"4/子女/0/0/0//0","event":"1854902"},
-{"equipID":"WP1017302","else":"0","once":"0","condition":"","event":"1431105"},
-{"equipID":"WP1017402","else":"0","once":"0","condition":"4/子女/0/0/0//0","event":"1855202"},
-{"equipID":"WP1017402","else":"0","once":"0","condition":"","event":"1431205"},
-{"equipID":"WP1017102","else":"0","once":"0","condition":"4/子女/0/0/0//0","event":"1855602"},
-{"equipID":"WP1017102","else":"0","once":"0","condition":"","event":"1431305"},
-{"equipID":"WP1017202","else":"0","once":"0","condition":"4/子女/0/0/0//0","event":"1855902"},
-{"equipID":"WP1017202","else":"0","once":"0","condition":"","event":"1547505"}
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8d3405495fe6242d446ef9ebbce6e0ea994c63eed376aa22d2237dd4a7c6365
+size 1733

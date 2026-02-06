@@ -1,7 +1,3 @@
-[
-{"userIndex":"4","id":"1000104","name":"独轮车队","icon":"","boxNum":"1","price":"1000","monthCost":"50","speed":"1","description":""},
-{"userIndex":"4","id":"1000204","name":"骡车队","icon":"","boxNum":"2","price":"2500","monthCost":"100","speed":"3","description":""},
-{"userIndex":"4","id":"1000304","name":"马车队","icon":"","boxNum":"3","price":"5000","monthCost":"150","speed":"4","description":""},
-{"userIndex":"4","id":"1000404","name":"重型马车队","icon":"","boxNum":"4","price":"7500","monthCost":"200","speed":"3","description":""},
-{"userIndex":"4","id":"1000504","name":"豪华马车队","icon":"","boxNum":"5","price":"12000","monthCost":"250","speed":"4","description":""}
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d68ccc6e5e7a4bc59be14e563eca60e3a6d2ab1955fa217ef5d4d3cf2747657
+size 713
