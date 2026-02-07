@@ -1,0 +1,29 @@
+===============================================================================
+袁思阙结婚事件 - JSON条目续(第2部分)
+===============================================================================
+
+===== GameEventCC.json 新增条目 =====
+(添加到文件末尾,最后一条是eventID 1894805)
+
+{"eventID":"3350015","weight":"100","else":"0","condition":"","conversation":"10330015"},
+{"eventID":"3350016","weight":"100","else":"0","condition":"","conversation":"10330016"},
+{"eventID":"3350017","weight":"100","else":"0","condition":"","conversation":"10330017"},
+{"eventID":"3350018","weight":"100","else":"0","condition":"","conversation":"10330018"},
+{"eventID":"3350019","weight":"100","else":"0","condition":"","conversation":"10330019"},
+{"eventID":"3350032","weight":"100","else":"0","condition":"","conversation":"10330021"},
+{"eventID":"3350070","weight":"100","else":"0","condition":"","conversation":"10330022"},
+
+===== BattleInfo.json 新增条目 =====
+(添加到文件末尾,最后一条id是1000818)
+
+{"userIndex":"20","id":"1021503","remark":"乱世红颜-与袁思阙切磋","remark2":"","rewardTips":"武魂记×2、随机武器×1、随机宝物×1","rewardTipsTc":"","rewardTipsEn":"","rewardTipsJp":"","rewardTipsKr":"","rewardTipsOther":"","winTips":"击败袁思阙","winTipsTc":"","winTipsEn":"","winTipsJp":"","winTipsKr":"","winTipsOther":"","loseTips":"AMING败退","loseTipsTc":"","loseTipsEn":"","loseTipsJp":"","loseTipsKr":"","loseTipsOther":"","additionTarget1":"","additionTarget1Tc":"","additionTarget1En":"","additionTarget1Jp":"","additionTarget1Kr":"","additionTarget1Other":"","additionTarget2":"","additionTarget2Tc":"","additionTarget2En":"","additionTarget2Jp":"","additionTarget2Kr":"","additionTarget2Other":"","additionReward1":"","additionReward1Tc":"","additionReward1En":"","additionReward1Jp":"","additionReward1Kr":"","additionReward1Other":"","additionReward2":"","additionReward2Tc":"","additionReward2En":"","additionReward2Jp":"","additionReward2Kr":"","additionReward2Other":"","additionCondition1":"","additionCondition2":"","source":"1","mission":"","canAuto":"0","scene":"80","return":"0","cameraMaxDis":"15","showPreview":"1","focusOnSpeaker":"1","mercenarySafe":"0","isWarBattle":"0","battleNPCIndex0":"0","battleNPCIndex1":"0","initCameraDirection":"0","roundFormulaID":"","canStudentReplace":"1","studentRewardFactor":"1"},
+
+===== BattleInfoEC.json  新增条目 =====
+(添加到文件末尾,最后一条battleID是1000818)
+
+{"battleID":"1021503","start":"1","else":"0","once":"0","group":"0","condition":"","event":"3350030"},
+{"battleID":"1021503","start":"1","else":"0","once":"0","group":"0","condition":"","event":"3350031"},
+{"battleID":"1021503","start":"1","else":"0","once":"0","group":"0","condition":"","event":"3350032"},
+{"battleID":"1021503","start":"3","else":"0","once":"0","group":"0","condition":"1/[个人战][舌战][论战]结果/=/胜利","event":"3350040"},
+
+===============================================================================
